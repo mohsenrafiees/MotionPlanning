@@ -1,0 +1,39 @@
+Planner Comparison Results
+=========================
+
+A*:
+-----------------
+Path score: 0
+Path length: 15.8117m
+Computation time: 592ms
+Memory usage: 0B
+Safety score: 1.31348
+Smoothness: 0.850009
+Trajectory duration: 46.7s
+Average velocity: 0.338967m/s
+Constraints met: Yes
+
+SBPL:
+-----------------
+Path score: 0
+Path length: 15.8179m
+Computation time: 0ms
+Memory usage: 0B
+Safety score: 0.99812
+Smoothness: 0.97714
+Trajectory duration: 35.2s
+Average velocity: 0.58095m/s
+Constraints met: Yes
+
+RRT*:
+-----------------
+Path score: 0
+Path length: 16.5224m
+Computation time: 0ms
+Memory usage: 0B
+Safety score: 1.04739
+Smoothness: 0.987939
+Trajectory duration: 62s
+Average velocity: 0.67951m/s
+Constraints met: Yes
+

@@ -1,0 +1,3158 @@
+[Sat Oct 26 18:11:01 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 18:18:26 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 18:18:26 2024] [ERROR] SBPL planner failed to find a path
+[Sat Oct 26 18:18:26 2024] [INFO] Testing A* planner
+[Sat Oct 26 18:32:08 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 18:32:14 2024] [INFO] SBPL Results:
+[Sat Oct 26 18:32:14 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 18:32:14 2024] [INFO]   Computation time: 3.000000ms
+[Sat Oct 26 18:32:14 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 18:32:14 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 18:32:14 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 18:32:14 2024] [INFO] Testing A* planner
+[Sat Oct 26 18:32:28 2024] [INFO] A* Results:
+[Sat Oct 26 18:32:28 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 18:32:28 2024] [INFO]   Computation time: 5191.000000ms
+[Sat Oct 26 18:32:28 2024] [INFO]   Memory usage: 445.574219MB
+[Sat Oct 26 18:32:28 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 18:32:28 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 18:49:31 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 18:49:34 2024] [INFO] SBPL Results:
+[Sat Oct 26 18:49:34 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 18:49:34 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 18:49:34 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 18:49:34 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 18:49:34 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 18:49:34 2024] [INFO] Testing A* planner
+[Sat Oct 26 18:49:47 2024] [INFO] A* Results:
+[Sat Oct 26 18:49:47 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 18:49:47 2024] [INFO]   Computation time: 4776.000000ms
+[Sat Oct 26 18:49:47 2024] [INFO]   Memory usage: 445.789062MB
+[Sat Oct 26 18:49:47 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 18:49:47 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:00:55 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:00:56 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:00:56 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:00:56 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:00:56 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:00:56 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:00:56 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:00:56 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:01:09 2024] [INFO] A* Results:
+[Sat Oct 26 19:01:09 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:01:09 2024] [INFO]   Computation time: 4971.000000ms
+[Sat Oct 26 19:01:09 2024] [INFO]   Memory usage: 445.996094MB
+[Sat Oct 26 19:01:09 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:01:09 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:02:59 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:03:00 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:03:00 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:03:00 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:03:00 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:03:00 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:03:00 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:03:00 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:03:13 2024] [INFO] A* Results:
+[Sat Oct 26 19:03:13 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:03:13 2024] [INFO]   Computation time: 4983.000000ms
+[Sat Oct 26 19:03:13 2024] [INFO]   Memory usage: 445.882812MB
+[Sat Oct 26 19:03:13 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:03:13 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:04:35 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:04:36 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:04:36 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:04:36 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:04:36 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:04:36 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:04:36 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:04:36 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:04:49 2024] [INFO] A* Results:
+[Sat Oct 26 19:04:49 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:04:49 2024] [INFO]   Computation time: 4994.000000ms
+[Sat Oct 26 19:04:49 2024] [INFO]   Memory usage: 445.906250MB
+[Sat Oct 26 19:04:49 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:04:49 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:05:49 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:05:50 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:05:50 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:05:50 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:05:50 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:05:50 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:05:50 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:05:50 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:06:03 2024] [INFO] A* Results:
+[Sat Oct 26 19:06:03 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:06:03 2024] [INFO]   Computation time: 5065.000000ms
+[Sat Oct 26 19:06:03 2024] [INFO]   Memory usage: 445.921875MB
+[Sat Oct 26 19:06:03 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:06:03 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:09:40 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:09:42 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:09:42 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:09:42 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:09:42 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:09:42 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:09:42 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:09:42 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:09:54 2024] [INFO] A* Results:
+[Sat Oct 26 19:09:54 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:09:54 2024] [INFO]   Computation time: 4749.000000ms
+[Sat Oct 26 19:09:54 2024] [INFO]   Memory usage: 446.007812MB
+[Sat Oct 26 19:09:54 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:09:54 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:13:15 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:13:16 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:13:16 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:13:16 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:13:16 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:13:16 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:13:16 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:13:16 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:13:29 2024] [INFO] A* Results:
+[Sat Oct 26 19:13:29 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:13:29 2024] [INFO]   Computation time: 5072.000000ms
+[Sat Oct 26 19:13:29 2024] [INFO]   Memory usage: 445.621094MB
+[Sat Oct 26 19:13:29 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:13:29 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:19:52 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:19:54 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:19:54 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:19:54 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:19:54 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:19:54 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:19:54 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:19:54 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:20:10 2024] [INFO] A* Results:
+[Sat Oct 26 19:20:10 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:20:10 2024] [INFO]   Computation time: 5034.000000ms
+[Sat Oct 26 19:20:10 2024] [INFO]   Memory usage: 445.574219MB
+[Sat Oct 26 19:20:10 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:20:10 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:25:56 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:25:58 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:25:58 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:25:58 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:25:58 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:25:58 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:25:58 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:25:58 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:26:14 2024] [INFO] A* Results:
+[Sat Oct 26 19:26:14 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:26:14 2024] [INFO]   Computation time: 5155.000000ms
+[Sat Oct 26 19:26:14 2024] [INFO]   Memory usage: 445.601562MB
+[Sat Oct 26 19:26:14 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:26:14 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:32:44 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:32:46 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:32:46 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:32:46 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:32:46 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:32:46 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:32:46 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:32:46 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:32:59 2024] [INFO] A* Results:
+[Sat Oct 26 19:32:59 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:32:59 2024] [INFO]   Computation time: 5169.000000ms
+[Sat Oct 26 19:32:59 2024] [INFO]   Memory usage: 445.765625MB
+[Sat Oct 26 19:32:59 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:32:59 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:36:25 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 19:36:26 2024] [INFO] SBPL Results:
+[Sat Oct 26 19:36:26 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 19:36:26 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 19:36:26 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 19:36:26 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 19:36:26 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 19:36:26 2024] [INFO] Testing A* planner
+[Sat Oct 26 19:36:39 2024] [INFO] A* Results:
+[Sat Oct 26 19:36:39 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 19:36:39 2024] [INFO]   Computation time: 4881.000000ms
+[Sat Oct 26 19:36:39 2024] [INFO]   Memory usage: 445.679688MB
+[Sat Oct 26 19:36:39 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 19:36:39 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 19:41:59 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 20:05:38 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 20:05:40 2024] [INFO] SBPL Results:
+[Sat Oct 26 20:05:40 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 20:05:40 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 20:05:40 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 20:05:40 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 20:05:40 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 20:05:40 2024] [INFO] Testing A* planner
+[Sat Oct 26 20:05:52 2024] [INFO] A* Results:
+[Sat Oct 26 20:05:52 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 20:05:52 2024] [INFO]   Computation time: 4736.000000ms
+[Sat Oct 26 20:05:52 2024] [INFO]   Memory usage: 445.632812MB
+[Sat Oct 26 20:05:52 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 20:05:52 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 20:08:37 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 20:08:39 2024] [INFO] SBPL Results:
+[Sat Oct 26 20:08:39 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 20:08:39 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 20:08:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 20:08:39 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 20:08:39 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 20:08:39 2024] [INFO] Testing A* planner
+[Sat Oct 26 20:08:47 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 20:08:48 2024] [INFO] SBPL Results:
+[Sat Oct 26 20:08:48 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 20:08:48 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 20:08:48 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 20:08:48 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 20:08:48 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 20:08:48 2024] [INFO] Testing A* planner
+[Sat Oct 26 20:09:01 2024] [INFO] A* Results:
+[Sat Oct 26 20:09:01 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 20:09:01 2024] [INFO]   Computation time: 5130.000000ms
+[Sat Oct 26 20:09:01 2024] [INFO]   Memory usage: 445.722656MB
+[Sat Oct 26 20:09:01 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 20:09:01 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:15:46 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:15:46 2024] [ERROR] SBPL planner failed to find a path
+[Sat Oct 26 22:15:46 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:18:28 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:18:30 2024] [INFO] SBPL Results:
+[Sat Oct 26 22:18:30 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 22:18:30 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:18:30 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:18:30 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 22:18:30 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 22:18:30 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:18:43 2024] [INFO] A* Results:
+[Sat Oct 26 22:18:43 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 22:18:43 2024] [INFO]   Computation time: 5151.000000ms
+[Sat Oct 26 22:18:43 2024] [INFO]   Memory usage: 445.882812MB
+[Sat Oct 26 22:18:43 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 22:18:43 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:18:43 2024] [INFO] Testing  planner
+[Sat Oct 26 22:18:43 2024] [ERROR] Error: Invalid planner type selected!
+[Sat Oct 26 22:22:34 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:22:36 2024] [INFO] SBPL Results:
+[Sat Oct 26 22:22:36 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 22:22:36 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:22:36 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:22:36 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 22:22:36 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 22:22:36 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:22:48 2024] [INFO] A* Results:
+[Sat Oct 26 22:22:48 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 22:22:48 2024] [INFO]   Computation time: 4721.000000ms
+[Sat Oct 26 22:22:48 2024] [INFO]   Memory usage: 445.742188MB
+[Sat Oct 26 22:22:48 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 22:22:48 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:22:48 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 22:22:49 2024] [ERROR] RRT* planner failed to find a path
+[Sat Oct 26 22:29:41 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:29:43 2024] [INFO] SBPL Results:
+[Sat Oct 26 22:29:43 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 22:29:43 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:29:43 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:29:43 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 22:29:43 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 22:29:43 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:29:56 2024] [INFO] A* Results:
+[Sat Oct 26 22:29:56 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 22:29:56 2024] [INFO]   Computation time: 5149.000000ms
+[Sat Oct 26 22:29:56 2024] [INFO]   Memory usage: 445.640625MB
+[Sat Oct 26 22:29:56 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 22:29:56 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:29:56 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 22:29:56 2024] [ERROR] RRT* planner failed to find a path
+[Sat Oct 26 22:34:37 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:34:39 2024] [INFO] SBPL Results:
+[Sat Oct 26 22:34:39 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 22:34:39 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:34:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:34:39 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 22:34:39 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 22:34:39 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:34:52 2024] [INFO] A* Results:
+[Sat Oct 26 22:34:52 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 22:34:52 2024] [INFO]   Computation time: 5149.000000ms
+[Sat Oct 26 22:34:52 2024] [INFO]   Memory usage: 445.605469MB
+[Sat Oct 26 22:34:52 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 22:34:52 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:34:52 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 22:34:52 2024] [ERROR] RRT* planner failed to find a path
+[Sat Oct 26 22:43:19 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:43:21 2024] [INFO] SBPL Results:
+[Sat Oct 26 22:43:21 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 22:43:21 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:43:21 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:43:21 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 22:43:21 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 22:43:21 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:43:33 2024] [INFO] A* Results:
+[Sat Oct 26 22:43:33 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 22:43:33 2024] [INFO]   Computation time: 4717.000000ms
+[Sat Oct 26 22:43:33 2024] [INFO]   Memory usage: 445.648438MB
+[Sat Oct 26 22:43:33 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 22:43:33 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:43:33 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 22:43:34 2024] [INFO] RRT* Results:
+[Sat Oct 26 22:43:34 2024] [INFO]   Path length: 15.000000m
+[Sat Oct 26 22:43:34 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:43:34 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:43:34 2024] [INFO]   Safety score: 0.529638
+[Sat Oct 26 22:43:34 2024] [INFO]   Smoothness: 0.626964
+[Sat Oct 26 22:53:10 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:53:12 2024] [INFO] SBPL Results:
+[Sat Oct 26 22:53:12 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 22:53:12 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:53:12 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:53:12 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 22:53:12 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 22:53:12 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:53:25 2024] [INFO] A* Results:
+[Sat Oct 26 22:53:25 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 22:53:25 2024] [INFO]   Computation time: 4729.000000ms
+[Sat Oct 26 22:53:25 2024] [INFO]   Memory usage: 445.808594MB
+[Sat Oct 26 22:53:25 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 22:53:25 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:53:25 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 22:53:26 2024] [INFO] RRT* Results:
+[Sat Oct 26 22:53:26 2024] [INFO]   Path length: 12.363170m
+[Sat Oct 26 22:53:26 2024] [INFO]   Computation time: 1.000000ms
+[Sat Oct 26 22:53:26 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:53:26 2024] [INFO]   Safety score: 0.635375
+[Sat Oct 26 22:53:26 2024] [INFO]   Smoothness: 0.803095
+[Sat Oct 26 22:54:33 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:54:35 2024] [INFO] SBPL Results:
+[Sat Oct 26 22:54:35 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 22:54:35 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:54:35 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:54:35 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 22:54:35 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 22:54:35 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:54:47 2024] [INFO] A* Results:
+[Sat Oct 26 22:54:47 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 22:54:47 2024] [INFO]   Computation time: 4722.000000ms
+[Sat Oct 26 22:54:47 2024] [INFO]   Memory usage: 445.714844MB
+[Sat Oct 26 22:54:47 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 22:54:47 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:54:47 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 22:56:17 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 22:56:19 2024] [INFO] SBPL Results:
+[Sat Oct 26 22:56:19 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 22:56:19 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:56:19 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:56:19 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 22:56:19 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 22:56:19 2024] [INFO] Testing A* planner
+[Sat Oct 26 22:56:31 2024] [INFO] A* Results:
+[Sat Oct 26 22:56:31 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 22:56:31 2024] [INFO]   Computation time: 4720.000000ms
+[Sat Oct 26 22:56:31 2024] [INFO]   Memory usage: 445.667969MB
+[Sat Oct 26 22:56:31 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 22:56:31 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 22:56:31 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 22:56:32 2024] [INFO] RRT* Results:
+[Sat Oct 26 22:56:32 2024] [INFO]   Path length: 20.702559m
+[Sat Oct 26 22:56:32 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 22:56:32 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 22:56:32 2024] [INFO]   Safety score: 0.549450
+[Sat Oct 26 22:56:32 2024] [INFO]   Smoothness: 0.623012
+[Sat Oct 26 23:52:15 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 23:52:16 2024] [INFO] SBPL Results:
+[Sat Oct 26 23:52:16 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 23:52:16 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 23:52:16 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 23:52:16 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 23:52:16 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 23:52:16 2024] [INFO] Testing A* planner
+[Sat Oct 26 23:52:29 2024] [INFO] A* Results:
+[Sat Oct 26 23:52:29 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 23:52:29 2024] [INFO]   Computation time: 4915.000000ms
+[Sat Oct 26 23:52:29 2024] [INFO]   Memory usage: 445.695312MB
+[Sat Oct 26 23:52:29 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 23:52:29 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 23:52:29 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 23:54:11 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 23:54:13 2024] [INFO] SBPL Results:
+[Sat Oct 26 23:54:13 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 23:54:13 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 23:54:13 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 23:54:13 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 23:54:13 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 23:54:13 2024] [INFO] Testing A* planner
+[Sat Oct 26 23:54:26 2024] [INFO] A* Results:
+[Sat Oct 26 23:54:26 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 23:54:26 2024] [INFO]   Computation time: 5051.000000ms
+[Sat Oct 26 23:54:26 2024] [INFO]   Memory usage: 445.777344MB
+[Sat Oct 26 23:54:26 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 23:54:26 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 23:54:26 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 23:54:28 2024] [INFO] RRT* Results:
+[Sat Oct 26 23:54:28 2024] [INFO]   Path length: 14.975000m
+[Sat Oct 26 23:54:28 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 23:54:28 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 23:54:28 2024] [INFO]   Safety score: 0.675739
+[Sat Oct 26 23:54:28 2024] [INFO]   Smoothness: 0.970165
+[Sat Oct 26 23:55:31 2024] [INFO] Testing SBPL planner
+[Sat Oct 26 23:55:33 2024] [INFO] SBPL Results:
+[Sat Oct 26 23:55:33 2024] [INFO]   Path length: 12.399495m
+[Sat Oct 26 23:55:33 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 23:55:33 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 23:55:33 2024] [INFO]   Safety score: 0.741634
+[Sat Oct 26 23:55:33 2024] [INFO]   Smoothness: 0.971733
+[Sat Oct 26 23:55:33 2024] [INFO] Testing A* planner
+[Sat Oct 26 23:55:46 2024] [INFO] A* Results:
+[Sat Oct 26 23:55:46 2024] [INFO]   Path length: 12.695000m
+[Sat Oct 26 23:55:46 2024] [INFO]   Computation time: 5035.000000ms
+[Sat Oct 26 23:55:46 2024] [INFO]   Memory usage: 445.667969MB
+[Sat Oct 26 23:55:46 2024] [INFO]   Safety score: 0.638231
+[Sat Oct 26 23:55:46 2024] [INFO]   Smoothness: 0.997530
+[Sat Oct 26 23:55:46 2024] [INFO] Testing RRT* planner
+[Sat Oct 26 23:55:48 2024] [INFO] RRT* Results:
+[Sat Oct 26 23:55:48 2024] [INFO]   Path length: 14.560380m
+[Sat Oct 26 23:55:48 2024] [INFO]   Computation time: 0.000000ms
+[Sat Oct 26 23:55:48 2024] [INFO]   Memory usage: 0.000000MB
+[Sat Oct 26 23:55:48 2024] [INFO]   Safety score: 0.649212
+[Sat Oct 26 23:55:48 2024] [INFO]   Smoothness: 0.967028
+[Sun Oct 27 00:05:16 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 00:05:18 2024] [INFO] SBPL Results:
+[Sun Oct 27 00:05:18 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 00:05:18 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:05:18 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:05:18 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 00:05:18 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 00:05:18 2024] [INFO] Testing A* planner
+[Sun Oct 27 00:05:31 2024] [INFO] A* Results:
+[Sun Oct 27 00:05:31 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 00:05:31 2024] [INFO]   Computation time: 5180.000000ms
+[Sun Oct 27 00:05:31 2024] [INFO]   Memory usage: 445.683594MB
+[Sun Oct 27 00:05:31 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 00:05:31 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 00:05:31 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 00:05:33 2024] [INFO] RRT* Results:
+[Sun Oct 27 00:05:33 2024] [INFO]   Path length: 14.436060m
+[Sun Oct 27 00:05:33 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:05:33 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:05:33 2024] [INFO]   Safety score: 0.726741
+[Sun Oct 27 00:05:33 2024] [INFO]   Smoothness: 0.973462
+[Sun Oct 27 00:05:33 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 00:05:36 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 00:05:36 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 00:05:36 2024] [INFO]   Computation time: 1512.000000ms
+[Sun Oct 27 00:05:36 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:05:36 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 00:05:36 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 00:21:12 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 00:21:14 2024] [INFO] SBPL Results:
+[Sun Oct 27 00:21:14 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 00:21:14 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:21:14 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:21:14 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 00:21:14 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 00:21:14 2024] [INFO] Testing A* planner
+[Sun Oct 27 00:22:37 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 00:22:39 2024] [INFO] SBPL Results:
+[Sun Oct 27 00:22:39 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 00:22:39 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:22:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:22:39 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 00:22:39 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 00:22:39 2024] [INFO] Testing A* planner
+[Sun Oct 27 00:22:51 2024] [INFO] A* Results:
+[Sun Oct 27 00:22:51 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 00:22:51 2024] [INFO]   Computation time: 4759.000000ms
+[Sun Oct 27 00:22:51 2024] [INFO]   Memory usage: 445.671875MB
+[Sun Oct 27 00:22:51 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 00:22:51 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 00:22:51 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 00:22:54 2024] [INFO] RRT* Results:
+[Sun Oct 27 00:22:54 2024] [INFO]   Path length: 14.879793m
+[Sun Oct 27 00:22:54 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:22:54 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:22:54 2024] [INFO]   Safety score: 0.608554
+[Sun Oct 27 00:22:54 2024] [INFO]   Smoothness: 0.969316
+[Sun Oct 27 00:22:54 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 00:22:56 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 00:22:56 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 00:22:56 2024] [INFO]   Computation time: 1523.000000ms
+[Sun Oct 27 00:22:56 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:22:56 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 00:22:56 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 00:26:51 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 00:26:52 2024] [INFO] SBPL Results:
+[Sun Oct 27 00:26:52 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 00:26:52 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:26:52 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:26:52 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 00:26:52 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 00:26:52 2024] [INFO] Testing A* planner
+[Sun Oct 27 00:27:05 2024] [INFO] A* Results:
+[Sun Oct 27 00:27:05 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 00:27:05 2024] [INFO]   Computation time: 4710.000000ms
+[Sun Oct 27 00:27:05 2024] [INFO]   Memory usage: 445.710938MB
+[Sun Oct 27 00:27:05 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 00:27:05 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 00:27:05 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 00:27:08 2024] [INFO] RRT* Results:
+[Sun Oct 27 00:27:08 2024] [INFO]   Path length: 15.426436m
+[Sun Oct 27 00:27:08 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:27:08 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:27:08 2024] [INFO]   Safety score: 0.615682
+[Sun Oct 27 00:27:08 2024] [INFO]   Smoothness: 0.964886
+[Sun Oct 27 00:27:08 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 00:27:10 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 00:27:10 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 00:27:10 2024] [INFO]   Computation time: 1503.000000ms
+[Sun Oct 27 00:27:10 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:27:10 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 00:27:10 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 00:31:53 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 00:31:55 2024] [INFO] SBPL Results:
+[Sun Oct 27 00:31:55 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 00:31:55 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:31:55 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:31:55 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 00:31:55 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 00:31:55 2024] [INFO] Testing A* planner
+[Sun Oct 27 00:32:07 2024] [INFO] A* Results:
+[Sun Oct 27 00:32:07 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 00:32:07 2024] [INFO]   Computation time: 4700.000000ms
+[Sun Oct 27 00:32:07 2024] [INFO]   Memory usage: 445.648438MB
+[Sun Oct 27 00:32:07 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 00:32:07 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 00:32:07 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 00:32:10 2024] [INFO] RRT* Results:
+[Sun Oct 27 00:32:10 2024] [INFO]   Path length: 14.939705m
+[Sun Oct 27 00:32:10 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:32:10 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:32:10 2024] [INFO]   Safety score: 0.650719
+[Sun Oct 27 00:32:10 2024] [INFO]   Smoothness: 0.969430
+[Sun Oct 27 00:32:10 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 00:32:12 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 00:32:12 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 00:32:12 2024] [INFO]   Computation time: 1505.000000ms
+[Sun Oct 27 00:32:12 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:32:12 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 00:32:12 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 00:44:55 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 00:44:57 2024] [INFO] SBPL Results:
+[Sun Oct 27 00:44:57 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 00:44:57 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:44:57 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:44:57 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 00:44:57 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 00:44:57 2024] [INFO] Testing A* planner
+[Sun Oct 27 00:45:09 2024] [INFO] A* Results:
+[Sun Oct 27 00:45:09 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 00:45:09 2024] [INFO]   Computation time: 4706.000000ms
+[Sun Oct 27 00:45:09 2024] [INFO]   Memory usage: 445.652344MB
+[Sun Oct 27 00:45:09 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 00:45:09 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 00:45:10 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 00:45:12 2024] [INFO] RRT* Results:
+[Sun Oct 27 00:45:12 2024] [INFO]   Path length: 14.975000m
+[Sun Oct 27 00:45:12 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:45:12 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:45:12 2024] [INFO]   Safety score: 0.604558
+[Sun Oct 27 00:45:12 2024] [INFO]   Smoothness: 0.966597
+[Sun Oct 27 00:45:12 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 00:45:15 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 00:45:15 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 00:45:15 2024] [INFO]   Computation time: 1507.000000ms
+[Sun Oct 27 00:45:15 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:45:15 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 00:45:15 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 00:45:15 2024] [INFO] Testing STOMP planner
+[Sun Oct 27 00:50:43 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 00:50:45 2024] [INFO] SBPL Results:
+[Sun Oct 27 00:50:45 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 00:50:45 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:50:45 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:50:45 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 00:50:45 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 00:50:45 2024] [INFO] Testing A* planner
+[Sun Oct 27 00:50:58 2024] [INFO] A* Results:
+[Sun Oct 27 00:50:58 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 00:50:58 2024] [INFO]   Computation time: 5079.000000ms
+[Sun Oct 27 00:50:58 2024] [INFO]   Memory usage: 445.691406MB
+[Sun Oct 27 00:50:58 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 00:50:58 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 00:50:58 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 00:51:01 2024] [INFO] RRT* Results:
+[Sun Oct 27 00:51:01 2024] [INFO]   Path length: 13.475000m
+[Sun Oct 27 00:51:01 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:51:01 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:51:01 2024] [INFO]   Safety score: 0.680250
+[Sun Oct 27 00:51:01 2024] [INFO]   Smoothness: 0.973188
+[Sun Oct 27 00:51:01 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 00:51:03 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 00:51:03 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 00:51:03 2024] [INFO]   Computation time: 1508.000000ms
+[Sun Oct 27 00:51:03 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:51:03 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 00:51:03 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 00:51:03 2024] [INFO] Testing STOMP planner
+[Sun Oct 27 00:56:55 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 00:56:57 2024] [INFO] SBPL Results:
+[Sun Oct 27 00:56:57 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 00:56:57 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:56:57 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:56:57 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 00:56:57 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 00:56:57 2024] [INFO] Testing A* planner
+[Sun Oct 27 00:57:10 2024] [INFO] A* Results:
+[Sun Oct 27 00:57:10 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 00:57:10 2024] [INFO]   Computation time: 5151.000000ms
+[Sun Oct 27 00:57:10 2024] [INFO]   Memory usage: 445.574219MB
+[Sun Oct 27 00:57:10 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 00:57:10 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 00:57:10 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 00:57:13 2024] [INFO] RRT* Results:
+[Sun Oct 27 00:57:13 2024] [INFO]   Path length: 15.475000m
+[Sun Oct 27 00:57:13 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 00:57:13 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:57:13 2024] [INFO]   Safety score: 0.742376
+[Sun Oct 27 00:57:13 2024] [INFO]   Smoothness: 0.966301
+[Sun Oct 27 00:57:13 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 00:57:15 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 00:57:15 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 00:57:15 2024] [INFO]   Computation time: 1519.000000ms
+[Sun Oct 27 00:57:15 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 00:57:15 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 00:57:15 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 00:57:15 2024] [INFO] Testing STOMP planner
+[Sun Oct 27 01:06:21 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 01:06:23 2024] [INFO] SBPL Results:
+[Sun Oct 27 01:06:23 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 01:06:23 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 01:06:23 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 01:06:23 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 01:06:23 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 01:06:23 2024] [INFO] Testing A* planner
+[Sun Oct 27 01:06:35 2024] [INFO] A* Results:
+[Sun Oct 27 01:06:35 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 01:06:35 2024] [INFO]   Computation time: 4715.000000ms
+[Sun Oct 27 01:06:35 2024] [INFO]   Memory usage: 445.718750MB
+[Sun Oct 27 01:06:35 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 01:06:35 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 01:06:35 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 01:06:38 2024] [INFO] RRT* Results:
+[Sun Oct 27 01:06:38 2024] [INFO]   Path length: 14.475000m
+[Sun Oct 27 01:06:38 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 01:06:38 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 01:06:38 2024] [INFO]   Safety score: 0.690784
+[Sun Oct 27 01:06:38 2024] [INFO]   Smoothness: 0.971423
+[Sun Oct 27 01:06:38 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 01:06:40 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 01:06:40 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 01:06:40 2024] [INFO]   Computation time: 1538.000000ms
+[Sun Oct 27 01:06:40 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 01:06:40 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 01:06:40 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 01:06:40 2024] [INFO] Testing STOMP planner
+[Sun Oct 27 15:01:58 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:02:02 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:02:02 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:02:02 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:02:02 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:02:02 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:02:02 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:02:02 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:02:15 2024] [INFO] A* Results:
+[Sun Oct 27 15:02:15 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 15:02:15 2024] [INFO]   Computation time: 5156.000000ms
+[Sun Oct 27 15:02:15 2024] [INFO]   Memory usage: 445.710938MB
+[Sun Oct 27 15:02:15 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 15:02:15 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 15:02:15 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 15:02:18 2024] [INFO] RRT* Results:
+[Sun Oct 27 15:02:18 2024] [INFO]   Path length: 17.715232m
+[Sun Oct 27 15:02:18 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:02:18 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:02:18 2024] [INFO]   Safety score: 0.672170
+[Sun Oct 27 15:02:18 2024] [INFO]   Smoothness: 0.967697
+[Sun Oct 27 15:02:18 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 15:02:20 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 15:02:20 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 15:02:20 2024] [INFO]   Computation time: 1516.000000ms
+[Sun Oct 27 15:02:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:02:20 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 15:02:20 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 15:02:20 2024] [INFO] Testing  planner
+[Sun Oct 27 15:04:03 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:04:05 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:04:05 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:04:05 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:04:05 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:04:05 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:04:05 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:04:05 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:04:18 2024] [INFO] A* Results:
+[Sun Oct 27 15:04:18 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 15:04:18 2024] [INFO]   Computation time: 5065.000000ms
+[Sun Oct 27 15:04:18 2024] [INFO]   Memory usage: 445.679688MB
+[Sun Oct 27 15:04:18 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 15:04:18 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 15:04:18 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 15:04:21 2024] [INFO] RRT* Results:
+[Sun Oct 27 15:04:21 2024] [INFO]   Path length: 16.475000m
+[Sun Oct 27 15:04:21 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:04:21 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:04:21 2024] [INFO]   Safety score: 0.642711
+[Sun Oct 27 15:04:21 2024] [INFO]   Smoothness: 0.971772
+[Sun Oct 27 15:04:21 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 15:04:23 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 15:04:23 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 15:04:23 2024] [INFO]   Computation time: 1514.000000ms
+[Sun Oct 27 15:04:23 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:04:23 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 15:04:23 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 15:04:23 2024] [INFO] Testing  planner
+[Sun Oct 27 15:06:39 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:06:42 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:06:42 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:06:42 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:06:42 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:06:42 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:06:42 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:06:43 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:06:56 2024] [INFO] A* Results:
+[Sun Oct 27 15:06:56 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 15:06:56 2024] [INFO]   Computation time: 5263.000000ms
+[Sun Oct 27 15:06:56 2024] [INFO]   Memory usage: 445.667969MB
+[Sun Oct 27 15:06:56 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 15:06:56 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 15:06:56 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 15:06:58 2024] [INFO] RRT* Results:
+[Sun Oct 27 15:06:58 2024] [INFO]   Path length: 15.065935m
+[Sun Oct 27 15:06:58 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:06:58 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:06:58 2024] [INFO]   Safety score: 0.712840
+[Sun Oct 27 15:06:58 2024] [INFO]   Smoothness: 0.971040
+[Sun Oct 27 15:06:58 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 15:07:01 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 15:07:01 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 15:07:01 2024] [INFO]   Computation time: 1520.000000ms
+[Sun Oct 27 15:07:01 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:07:01 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 15:07:01 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 15:10:25 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:10:27 2024] [ERROR] Plotting failed: Error in plotPath: Call to xlim() failed.
+Path size: 191
+Grid dimensions (meters): 16x16
+[Sun Oct 27 15:10:27 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:10:27 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:10:27 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:10:27 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:10:27 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:10:27 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:10:27 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:10:40 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 15:13:54 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:14:35 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:17:49 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:18:47 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:20:36 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:24:05 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:24:07 2024] [ERROR] Plotting failed: Error in plotPath: Call to xlim() failed.
+Path size: 191
+Grid dimensions (meters): 16x16
+[Sun Oct 27 15:24:07 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:24:07 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:24:07 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:24:07 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:24:07 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:24:07 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:24:07 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:24:20 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 15:24:41 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:24:44 2024] [ERROR] Plotting failed: Error in plotPath: Call to xlim() failed.
+Path size: 191
+Grid dimensions (meters): 16x16
+[Sun Oct 27 15:24:44 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:24:44 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:24:44 2024] [INFO]   Computation time: 3.000000ms
+[Sun Oct 27 15:24:44 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:24:44 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:24:44 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:24:44 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:25:01 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 15:26:05 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:26:39 2024] [ERROR] Plotting failed: Error in plotPath: Call to xlim() failed.
+Path size: 191
+Grid dimensions (meters): 16x16
+[Sun Oct 27 15:26:39 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:26:39 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:26:39 2024] [INFO]   Computation time: 35.000000ms
+[Sun Oct 27 15:26:39 2024] [INFO]   Memory usage: 0.750000MB
+[Sun Oct 27 15:26:39 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:26:39 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:26:39 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:29:18 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 15:52:10 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:52:14 2024] [ERROR] Plotting failed: Call to save() failed.
+[Sun Oct 27 15:52:14 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:52:14 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:52:14 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 15:52:14 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:52:14 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:52:14 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:52:14 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:52:27 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 15:52:58 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:53:03 2024] [ERROR] Plotting failed: Call to save() failed.
+[Sun Oct 27 15:53:03 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:53:03 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:53:03 2024] [INFO]   Computation time: 2.000000ms
+[Sun Oct 27 15:53:03 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 15:53:03 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:53:03 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:53:03 2024] [INFO] Testing A* planner
+[Sun Oct 27 15:53:16 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 15:54:16 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 15:54:52 2024] [ERROR] Plotting failed: Call to save() failed.
+[Sun Oct 27 15:54:52 2024] [INFO] SBPL Results:
+[Sun Oct 27 15:54:52 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 15:54:52 2024] [INFO]   Computation time: 35.000000ms
+[Sun Oct 27 15:54:52 2024] [INFO]   Memory usage: 0.750000MB
+[Sun Oct 27 15:54:52 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 15:54:52 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 15:54:52 2024] [INFO] Testing A* planner
+[Sun Oct 27 16:09:18 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:09:22 2024] [ERROR] Plotting failed: Plotting failed: Call to xlim() failed.
+[Sun Oct 27 16:09:22 2024] [INFO] SBPL Results:
+[Sun Oct 27 16:09:22 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 16:09:22 2024] [INFO]   Computation time: 3.000000ms
+[Sun Oct 27 16:09:22 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 16:09:22 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 16:09:22 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 16:09:22 2024] [INFO] Testing A* planner
+[Sun Oct 27 16:09:35 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 16:13:15 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:13:16 2024] [ERROR] Plotting failed: Call to xlim() failed.
+[Sun Oct 27 16:13:16 2024] [INFO] SBPL Results:
+[Sun Oct 27 16:13:16 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 16:13:16 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 16:13:16 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 16:13:16 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 16:13:16 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 16:13:16 2024] [INFO] Testing A* planner
+[Sun Oct 27 16:15:34 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:16:40 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:19:09 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:19:10 2024] [ERROR] Plotting failed: Call to xlim() failed.
+[Sun Oct 27 16:19:10 2024] [INFO] SBPL Results:
+[Sun Oct 27 16:19:10 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 16:19:10 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 16:19:10 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 16:19:10 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 16:19:10 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 16:19:10 2024] [INFO] Testing A* planner
+[Sun Oct 27 16:20:02 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:20:04 2024] [ERROR] Plotting failed: Call to xlim() failed.
+[Sun Oct 27 16:20:04 2024] [INFO] SBPL Results:
+[Sun Oct 27 16:20:04 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 16:20:04 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 16:20:04 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 16:20:04 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 16:20:04 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 16:20:04 2024] [INFO] Testing A* planner
+[Sun Oct 27 16:20:16 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 16:22:30 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:22:31 2024] [ERROR] Plotting failed: Call to xlim() failed.
+[Sun Oct 27 16:22:31 2024] [INFO] SBPL Results:
+[Sun Oct 27 16:22:31 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 16:22:31 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 16:22:31 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 16:22:31 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 16:22:31 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 16:22:31 2024] [INFO] Testing A* planner
+[Sun Oct 27 16:22:44 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 16:26:09 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:26:31 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:27:59 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:28:55 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:29:11 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:30:26 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:31:55 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:35:42 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:36:57 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:37:29 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:37:59 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:39:54 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:40:15 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:42:27 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:42:53 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:43:20 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:43:36 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:48:27 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:48:51 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:50:51 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:51:16 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:51:47 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 16:54:05 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:00:00 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:05:05 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:05:08 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:05:08 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:05:08 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:05:08 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:05:08 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:05:08 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:05:08 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:05:22 2024] [INFO] A* Results:
+[Sun Oct 27 17:05:22 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:05:22 2024] [INFO]   Computation time: 4704.000000ms
+[Sun Oct 27 17:05:22 2024] [INFO]   Memory usage: 366.535156MB
+[Sun Oct 27 17:05:22 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:05:22 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:05:22 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:05:26 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:05:26 2024] [INFO]   Path length: 14.358529m
+[Sun Oct 27 17:05:26 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:05:26 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:05:26 2024] [INFO]   Safety score: 0.711815
+[Sun Oct 27 17:05:26 2024] [INFO]   Smoothness: 0.976146
+[Sun Oct 27 17:05:26 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:05:29 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:05:29 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:05:29 2024] [INFO]   Computation time: 1496.000000ms
+[Sun Oct 27 17:05:29 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:05:29 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:05:29 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:08:41 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:08:44 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:08:44 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:08:44 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:08:44 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:08:44 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:08:44 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:08:44 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:08:57 2024] [INFO] A* Results:
+[Sun Oct 27 17:08:57 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:08:57 2024] [INFO]   Computation time: 5074.000000ms
+[Sun Oct 27 17:08:57 2024] [INFO]   Memory usage: 346.464844MB
+[Sun Oct 27 17:08:57 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:08:57 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:08:58 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:09:02 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:09:02 2024] [INFO]   Path length: 20.661411m
+[Sun Oct 27 17:09:02 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:09:02 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:09:02 2024] [INFO]   Safety score: 0.568279
+[Sun Oct 27 17:09:02 2024] [INFO]   Smoothness: 0.975828
+[Sun Oct 27 17:09:02 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:09:05 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:09:05 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:09:05 2024] [INFO]   Computation time: 1494.000000ms
+[Sun Oct 27 17:09:05 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:09:05 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:09:05 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:12:58 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:13:00 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:13:00 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:13:00 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:13:00 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:13:00 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:13:00 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:13:00 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:13:13 2024] [INFO] A* Results:
+[Sun Oct 27 17:13:13 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:13:13 2024] [INFO]   Computation time: 4872.000000ms
+[Sun Oct 27 17:13:13 2024] [INFO]   Memory usage: 438.816406MB
+[Sun Oct 27 17:13:13 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:13:13 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:13:13 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:13:16 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:13:16 2024] [INFO]   Path length: 13.975000m
+[Sun Oct 27 17:13:16 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:13:16 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:13:16 2024] [INFO]   Safety score: 0.723742
+[Sun Oct 27 17:13:16 2024] [INFO]   Smoothness: 0.969971
+[Sun Oct 27 17:13:16 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:13:18 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:13:18 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:13:18 2024] [INFO]   Computation time: 1488.000000ms
+[Sun Oct 27 17:13:18 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:13:18 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:13:18 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:20:56 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:20:58 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:20:58 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:20:58 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:20:58 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:20:58 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:20:58 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:20:58 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:21:11 2024] [INFO] A* Results:
+[Sun Oct 27 17:21:11 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:21:11 2024] [INFO]   Computation time: 4695.000000ms
+[Sun Oct 27 17:21:11 2024] [INFO]   Memory usage: 389.082031MB
+[Sun Oct 27 17:21:11 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:21:11 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:21:11 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:21:15 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:21:15 2024] [INFO]   Path length: 15.956441m
+[Sun Oct 27 17:21:15 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:21:15 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:21:15 2024] [INFO]   Safety score: 0.640643
+[Sun Oct 27 17:21:15 2024] [INFO]   Smoothness: 0.965896
+[Sun Oct 27 17:21:15 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:21:18 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:21:18 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:21:18 2024] [INFO]   Computation time: 1511.000000ms
+[Sun Oct 27 17:21:18 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:21:18 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:21:18 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:25:08 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:25:10 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:25:10 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:25:10 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:25:10 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:25:10 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:25:10 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:25:10 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:25:23 2024] [INFO] A* Results:
+[Sun Oct 27 17:25:23 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:25:23 2024] [INFO]   Computation time: 4905.000000ms
+[Sun Oct 27 17:25:23 2024] [INFO]   Memory usage: 388.906250MB
+[Sun Oct 27 17:25:23 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:25:23 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:25:23 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:25:26 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:25:26 2024] [INFO]   Path length: 13.907421m
+[Sun Oct 27 17:25:26 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:25:26 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:25:26 2024] [INFO]   Safety score: 0.619382
+[Sun Oct 27 17:25:26 2024] [INFO]   Smoothness: 0.967913
+[Sun Oct 27 17:25:26 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:25:29 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:25:29 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:25:29 2024] [INFO]   Computation time: 1517.000000ms
+[Sun Oct 27 17:25:29 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:25:29 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:25:29 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:29:07 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:29:10 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:29:10 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:29:10 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:29:10 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:29:10 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:29:10 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:29:10 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:29:23 2024] [INFO] A* Results:
+[Sun Oct 27 17:29:23 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:29:23 2024] [INFO]   Computation time: 4907.000000ms
+[Sun Oct 27 17:29:23 2024] [INFO]   Memory usage: 389.058594MB
+[Sun Oct 27 17:29:23 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:29:23 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:29:23 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:29:27 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:29:27 2024] [INFO]   Path length: 19.975000m
+[Sun Oct 27 17:29:27 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:29:27 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:29:27 2024] [INFO]   Safety score: 0.637422
+[Sun Oct 27 17:29:27 2024] [INFO]   Smoothness: 0.975286
+[Sun Oct 27 17:29:27 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:29:29 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:29:29 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:29:29 2024] [INFO]   Computation time: 1508.000000ms
+[Sun Oct 27 17:29:29 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:29:29 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:29:29 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:31:29 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:31:32 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:31:32 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:31:32 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:31:32 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:31:32 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:31:32 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:31:32 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:31:45 2024] [INFO] A* Results:
+[Sun Oct 27 17:31:45 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:31:45 2024] [INFO]   Computation time: 4932.000000ms
+[Sun Oct 27 17:31:45 2024] [INFO]   Memory usage: 389.929688MB
+[Sun Oct 27 17:31:45 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:31:45 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:31:45 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:31:47 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:31:47 2024] [INFO]   Path length: 13.281152m
+[Sun Oct 27 17:31:47 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:31:47 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:31:47 2024] [INFO]   Safety score: 0.740824
+[Sun Oct 27 17:31:47 2024] [INFO]   Smoothness: 0.971718
+[Sun Oct 27 17:31:47 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:31:50 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:31:50 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:31:50 2024] [INFO]   Computation time: 1487.000000ms
+[Sun Oct 27 17:31:50 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:31:50 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:31:50 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:35:43 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:35:46 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:35:46 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:35:46 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:35:46 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:35:46 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:35:46 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:35:46 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:36:00 2024] [INFO] A* Results:
+[Sun Oct 27 17:36:00 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:36:00 2024] [INFO]   Computation time: 5266.000000ms
+[Sun Oct 27 17:36:00 2024] [INFO]   Memory usage: 389.066406MB
+[Sun Oct 27 17:36:00 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:36:00 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:36:00 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:36:03 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:36:03 2024] [INFO]   Path length: 14.198485m
+[Sun Oct 27 17:36:03 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:36:03 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:36:03 2024] [INFO]   Safety score: 0.713084
+[Sun Oct 27 17:36:03 2024] [INFO]   Smoothness: 0.977200
+[Sun Oct 27 17:36:03 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:36:06 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:36:06 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:36:06 2024] [INFO]   Computation time: 1523.000000ms
+[Sun Oct 27 17:36:06 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:36:06 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:36:06 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:36:37 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:36:39 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:36:39 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:36:39 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:36:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:36:39 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:36:39 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:36:39 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:36:53 2024] [INFO] A* Results:
+[Sun Oct 27 17:36:53 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:36:53 2024] [INFO]   Computation time: 4918.000000ms
+[Sun Oct 27 17:36:53 2024] [INFO]   Memory usage: 388.902344MB
+[Sun Oct 27 17:36:53 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:36:53 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:36:53 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:36:56 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:36:56 2024] [INFO]   Path length: 14.975000m
+[Sun Oct 27 17:36:56 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:36:56 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:36:56 2024] [INFO]   Safety score: 0.737070
+[Sun Oct 27 17:36:56 2024] [INFO]   Smoothness: 0.971095
+[Sun Oct 27 17:36:56 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:36:59 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:36:59 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:36:59 2024] [INFO]   Computation time: 1477.000000ms
+[Sun Oct 27 17:36:59 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:36:59 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:36:59 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:39:18 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:39:20 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:39:20 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:39:20 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:39:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:39:20 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:39:20 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:39:20 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:39:33 2024] [INFO] A* Results:
+[Sun Oct 27 17:39:33 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:39:33 2024] [INFO]   Computation time: 4962.000000ms
+[Sun Oct 27 17:39:33 2024] [INFO]   Memory usage: 389.027344MB
+[Sun Oct 27 17:39:33 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:39:33 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:39:33 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:39:36 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:39:36 2024] [INFO]   Path length: 14.475000m
+[Sun Oct 27 17:39:36 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:39:36 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:39:36 2024] [INFO]   Safety score: 0.734597
+[Sun Oct 27 17:39:36 2024] [INFO]   Smoothness: 0.975526
+[Sun Oct 27 17:39:36 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:39:39 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:39:39 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:39:39 2024] [INFO]   Computation time: 1507.000000ms
+[Sun Oct 27 17:39:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:39:39 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:39:39 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 17:47:59 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 17:48:01 2024] [INFO] SBPL Results:
+[Sun Oct 27 17:48:01 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 17:48:01 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:48:01 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:48:01 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 17:48:01 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 17:48:01 2024] [INFO] Testing A* planner
+[Sun Oct 27 17:48:14 2024] [INFO] A* Results:
+[Sun Oct 27 17:48:14 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 17:48:14 2024] [INFO]   Computation time: 5003.000000ms
+[Sun Oct 27 17:48:14 2024] [INFO]   Memory usage: 389.082031MB
+[Sun Oct 27 17:48:14 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 17:48:14 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 17:48:14 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 17:48:17 2024] [INFO] RRT* Results:
+[Sun Oct 27 17:48:17 2024] [INFO]   Path length: 15.794816m
+[Sun Oct 27 17:48:17 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 17:48:17 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:48:17 2024] [INFO]   Safety score: 0.598400
+[Sun Oct 27 17:48:17 2024] [INFO]   Smoothness: 0.964416
+[Sun Oct 27 17:48:17 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 17:48:20 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 17:48:20 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 17:48:20 2024] [INFO]   Computation time: 1501.000000ms
+[Sun Oct 27 17:48:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 17:48:20 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 17:48:20 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 18:01:02 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:01:04 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:01:04 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:01:04 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:01:04 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:01:04 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:01:04 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:01:04 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:01:17 2024] [INFO] A* Results:
+[Sun Oct 27 18:01:17 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:01:17 2024] [INFO]   Computation time: 4695.000000ms
+[Sun Oct 27 18:01:17 2024] [INFO]   Memory usage: 390.011719MB
+[Sun Oct 27 18:01:17 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:01:17 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:01:17 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:01:20 2024] [INFO] RRT* Results:
+[Sun Oct 27 18:01:20 2024] [INFO]   Path length: 14.475000m
+[Sun Oct 27 18:01:20 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:01:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:01:20 2024] [INFO]   Safety score: 0.762789
+[Sun Oct 27 18:01:20 2024] [INFO]   Smoothness: 0.970835
+[Sun Oct 27 18:01:20 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 18:01:23 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 18:01:23 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 18:01:23 2024] [INFO]   Computation time: 1495.000000ms
+[Sun Oct 27 18:01:23 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:01:23 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 18:01:23 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 18:09:00 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:09:02 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:09:02 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:09:02 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:09:02 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:09:02 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:09:02 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:09:02 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:09:15 2024] [INFO] A* Results:
+[Sun Oct 27 18:09:15 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:09:15 2024] [INFO]   Computation time: 4719.000000ms
+[Sun Oct 27 18:09:15 2024] [INFO]   Memory usage: 387.726562MB
+[Sun Oct 27 18:09:15 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:09:15 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:09:15 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:09:18 2024] [INFO] RRT* Results:
+[Sun Oct 27 18:09:18 2024] [INFO]   Path length: 13.872238m
+[Sun Oct 27 18:09:18 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 18:09:18 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:09:18 2024] [INFO]   Safety score: 0.749881
+[Sun Oct 27 18:09:18 2024] [INFO]   Smoothness: 0.977082
+[Sun Oct 27 18:09:18 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 18:09:21 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 18:09:21 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 18:09:21 2024] [INFO]   Computation time: 1532.000000ms
+[Sun Oct 27 18:09:21 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:09:21 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 18:09:21 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 18:14:16 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:14:18 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:14:18 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:14:18 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:14:18 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:14:18 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:14:18 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:14:18 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:14:31 2024] [INFO] A* Results:
+[Sun Oct 27 18:14:31 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:14:31 2024] [INFO]   Computation time: 5035.000000ms
+[Sun Oct 27 18:14:31 2024] [INFO]   Memory usage: 389.832031MB
+[Sun Oct 27 18:14:31 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:14:31 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:14:32 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:14:35 2024] [INFO] RRT* Results:
+[Sun Oct 27 18:14:35 2024] [INFO]   Path length: 15.504732m
+[Sun Oct 27 18:14:35 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:14:35 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:14:35 2024] [INFO]   Safety score: 0.611525
+[Sun Oct 27 18:14:35 2024] [INFO]   Smoothness: 0.977661
+[Sun Oct 27 18:14:35 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 18:14:37 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 18:14:37 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 18:14:37 2024] [INFO]   Computation time: 1508.000000ms
+[Sun Oct 27 18:14:37 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:14:37 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 18:14:37 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 18:15:59 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:16:01 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:16:01 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:16:01 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:16:01 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:16:01 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:16:01 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:16:01 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:16:14 2024] [INFO] A* Results:
+[Sun Oct 27 18:16:14 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:16:14 2024] [INFO]   Computation time: 4863.000000ms
+[Sun Oct 27 18:16:14 2024] [INFO]   Memory usage: 389.867188MB
+[Sun Oct 27 18:16:14 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:16:14 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:16:14 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:16:17 2024] [INFO] RRT* Results:
+[Sun Oct 27 18:16:17 2024] [INFO]   Path length: 15.475000m
+[Sun Oct 27 18:16:17 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:16:17 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:16:17 2024] [INFO]   Safety score: 0.690803
+[Sun Oct 27 18:16:17 2024] [INFO]   Smoothness: 0.966333
+[Sun Oct 27 18:16:17 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 18:16:20 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 18:16:20 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 18:16:20 2024] [INFO]   Computation time: 1511.000000ms
+[Sun Oct 27 18:16:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:16:20 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 18:16:20 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 18:18:55 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:18:58 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:18:58 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:18:58 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:18:58 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:18:58 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:18:58 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:18:58 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:19:11 2024] [INFO] A* Results:
+[Sun Oct 27 18:19:11 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:19:11 2024] [INFO]   Computation time: 5046.000000ms
+[Sun Oct 27 18:19:11 2024] [INFO]   Memory usage: 389.843750MB
+[Sun Oct 27 18:19:11 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:19:11 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:19:11 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:19:14 2024] [INFO] RRT* Results:
+[Sun Oct 27 18:19:14 2024] [INFO]   Path length: 14.519539m
+[Sun Oct 27 18:19:14 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:19:14 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:19:14 2024] [INFO]   Safety score: 0.647254
+[Sun Oct 27 18:19:14 2024] [INFO]   Smoothness: 0.964113
+[Sun Oct 27 18:19:14 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 18:19:17 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 18:19:17 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 18:19:17 2024] [INFO]   Computation time: 1471.000000ms
+[Sun Oct 27 18:19:17 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:19:17 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 18:19:17 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 18:22:16 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:22:18 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:22:18 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:22:18 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:22:18 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:22:18 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:22:18 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:22:18 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:22:31 2024] [INFO] A* Results:
+[Sun Oct 27 18:22:31 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:22:31 2024] [INFO]   Computation time: 4646.000000ms
+[Sun Oct 27 18:22:31 2024] [INFO]   Memory usage: 389.945312MB
+[Sun Oct 27 18:22:31 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:22:31 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:22:31 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:22:34 2024] [INFO] RRT* Results:
+[Sun Oct 27 18:22:34 2024] [INFO]   Path length: 14.975000m
+[Sun Oct 27 18:22:34 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:22:34 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:22:34 2024] [INFO]   Safety score: 0.687690
+[Sun Oct 27 18:22:34 2024] [INFO]   Smoothness: 0.976628
+[Sun Oct 27 18:22:34 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 18:22:37 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 18:22:37 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 18:22:37 2024] [INFO]   Computation time: 1514.000000ms
+[Sun Oct 27 18:22:37 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:22:37 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 18:22:37 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 18:25:39 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:25:42 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:25:42 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:25:42 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:25:42 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:25:42 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:25:42 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:25:42 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:26:10 2024] [INFO] A* Results:
+[Sun Oct 27 18:26:10 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:26:10 2024] [INFO]   Computation time: 4751.000000ms
+[Sun Oct 27 18:26:10 2024] [INFO]   Memory usage: 391.296875MB
+[Sun Oct 27 18:26:10 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:26:10 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:26:10 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:26:12 2024] [ERROR] Error: Call to figure_size() failed.
+[Sun Oct 27 18:27:48 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:27:51 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:27:51 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:27:51 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:27:51 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:27:51 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:27:51 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:27:51 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:28:19 2024] [INFO] A* Results:
+[Sun Oct 27 18:28:19 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:28:19 2024] [INFO]   Computation time: 4555.000000ms
+[Sun Oct 27 18:28:19 2024] [INFO]   Memory usage: 391.324219MB
+[Sun Oct 27 18:28:19 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:28:19 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:28:19 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:28:25 2024] [INFO] RRT* Results:
+[Sun Oct 27 18:28:25 2024] [INFO]   Path length: 14.785076m
+[Sun Oct 27 18:28:25 2024] [INFO]   Computation time: 5.000000ms
+[Sun Oct 27 18:28:25 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:28:25 2024] [INFO]   Safety score: 0.671255
+[Sun Oct 27 18:28:25 2024] [INFO]   Smoothness: 0.966772
+[Sun Oct 27 18:28:25 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 18:28:29 2024] [INFO] CHOMPP Results:
+[Sun Oct 27 18:28:29 2024] [INFO]   Path length: 12.220681m
+[Sun Oct 27 18:28:29 2024] [INFO]   Computation time: 1500.000000ms
+[Sun Oct 27 18:28:29 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:28:29 2024] [INFO]   Safety score: 0.756609
+[Sun Oct 27 18:28:29 2024] [INFO]   Smoothness: 0.977589
+[Sun Oct 27 18:33:14 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 18:33:18 2024] [INFO] SBPL Results:
+[Sun Oct 27 18:33:18 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 18:33:18 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 18:33:18 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:33:18 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 18:33:18 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 18:33:18 2024] [INFO] Testing A* planner
+[Sun Oct 27 18:33:46 2024] [INFO] A* Results:
+[Sun Oct 27 18:33:46 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 18:33:46 2024] [INFO]   Computation time: 4944.000000ms
+[Sun Oct 27 18:33:46 2024] [INFO]   Memory usage: 391.222656MB
+[Sun Oct 27 18:33:46 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 18:33:46 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 18:33:46 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 18:33:53 2024] [INFO] RRT* Results:
+[Sun Oct 27 18:33:53 2024] [INFO]   Path length: 14.975000m
+[Sun Oct 27 18:33:53 2024] [INFO]   Computation time: 5.000000ms
+[Sun Oct 27 18:33:53 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 18:33:53 2024] [INFO]   Safety score: 0.628152
+[Sun Oct 27 18:33:53 2024] [INFO]   Smoothness: 0.972035
+[Sun Oct 27 18:33:53 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 19:07:25 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 19:07:28 2024] [INFO] SBPL Results:
+[Sun Oct 27 19:07:28 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 19:07:28 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 19:07:28 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 19:07:28 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 19:07:28 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 19:07:28 2024] [INFO] Testing A* planner
+[Sun Oct 27 19:07:57 2024] [INFO] A* Results:
+[Sun Oct 27 19:07:57 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 19:07:57 2024] [INFO]   Computation time: 4894.000000ms
+[Sun Oct 27 19:07:57 2024] [INFO]   Memory usage: 391.203125MB
+[Sun Oct 27 19:07:57 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 19:07:57 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 19:07:57 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 19:08:03 2024] [INFO] RRT* Results:
+[Sun Oct 27 19:08:03 2024] [INFO]   Path length: 14.835446m
+[Sun Oct 27 19:08:03 2024] [INFO]   Computation time: 5.000000ms
+[Sun Oct 27 19:08:03 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 19:08:03 2024] [INFO]   Safety score: 0.723755
+[Sun Oct 27 19:08:03 2024] [INFO]   Smoothness: 0.967422
+[Sun Oct 27 19:08:03 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 19:09:15 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 19:09:20 2024] [INFO] SBPL Results:
+[Sun Oct 27 19:09:20 2024] [INFO]   Path length: 12.399495m
+[Sun Oct 27 19:09:20 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 19:09:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 19:09:20 2024] [INFO]   Safety score: 0.741634
+[Sun Oct 27 19:09:20 2024] [INFO]   Smoothness: 0.971733
+[Sun Oct 27 19:09:20 2024] [INFO] Testing A* planner
+[Sun Oct 27 19:09:50 2024] [INFO] A* Results:
+[Sun Oct 27 19:09:50 2024] [INFO]   Path length: 12.695000m
+[Sun Oct 27 19:09:50 2024] [INFO]   Computation time: 5395.000000ms
+[Sun Oct 27 19:09:50 2024] [INFO]   Memory usage: 391.402344MB
+[Sun Oct 27 19:09:50 2024] [INFO]   Safety score: 0.638231
+[Sun Oct 27 19:09:50 2024] [INFO]   Smoothness: 0.997530
+[Sun Oct 27 19:09:50 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 19:09:58 2024] [INFO] RRT* Results:
+[Sun Oct 27 19:09:58 2024] [INFO]   Path length: 18.941603m
+[Sun Oct 27 19:09:58 2024] [INFO]   Computation time: 5.000000ms
+[Sun Oct 27 19:09:58 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 19:09:58 2024] [INFO]   Safety score: 0.609403
+[Sun Oct 27 19:09:58 2024] [INFO]   Smoothness: 0.977300
+[Sun Oct 27 19:09:58 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 19:42:32 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 19:42:32 2024] [ERROR] SBPL planner failed to find a path
+[Sun Oct 27 19:42:32 2024] [INFO] Testing A* planner
+[Sun Oct 27 19:42:32 2024] [ERROR] A* planner failed to find a path
+[Sun Oct 27 19:45:00 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 19:45:01 2024] [ERROR] SBPL planner failed to find a path
+[Sun Oct 27 19:45:01 2024] [INFO] Testing A* planner
+[Sun Oct 27 19:45:01 2024] [ERROR] A* planner failed to find a path
+[Sun Oct 27 19:50:07 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 19:50:08 2024] [ERROR] SBPL planner failed to find a path
+[Sun Oct 27 19:50:08 2024] [INFO] Testing A* planner
+[Sun Oct 27 19:50:08 2024] [ERROR] A* planner failed to find a path
+[Sun Oct 27 19:50:08 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 19:50:08 2024] [ERROR] RRT* planner failed to find a path
+[Sun Oct 27 19:50:08 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 19:53:00 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 19:53:00 2024] [ERROR] SBPL planner failed to find a path
+[Sun Oct 27 19:53:00 2024] [INFO] Testing A* planner
+[Sun Oct 27 19:53:00 2024] [ERROR] A* planner failed to find a path
+[Sun Oct 27 19:53:00 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 19:53:00 2024] [ERROR] RRT* planner failed to find a path
+[Sun Oct 27 19:53:00 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 19:55:54 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 19:55:57 2024] [INFO] SBPL Results:
+[Sun Oct 27 19:55:57 2024] [INFO]   Path length: 1.965685m
+[Sun Oct 27 19:55:57 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 19:55:57 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 19:55:57 2024] [INFO]   Safety score: 0.383711
+[Sun Oct 27 19:55:57 2024] [INFO]   Smoothness: 0.978053
+[Sun Oct 27 19:55:57 2024] [INFO] Testing A* planner
+[Sun Oct 27 19:55:57 2024] [ERROR] A* planner failed to find a path
+[Sun Oct 27 19:55:57 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 19:55:57 2024] [ERROR] RRT* planner failed to find a path
+[Sun Oct 27 19:55:57 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 20:03:32 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 20:03:34 2024] [INFO] SBPL Results:
+[Sun Oct 27 20:03:34 2024] [INFO]   Path length: 1.965685m
+[Sun Oct 27 20:03:34 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:03:34 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:03:34 2024] [INFO]   Safety score: 0.383711
+[Sun Oct 27 20:03:34 2024] [INFO]   Smoothness: 0.978053
+[Sun Oct 27 20:03:34 2024] [INFO] Testing A* planner
+[Sun Oct 27 20:03:39 2024] [INFO] A* Results:
+[Sun Oct 27 20:03:39 2024] [INFO]   Path length: 2.295000m
+[Sun Oct 27 20:03:39 2024] [INFO]   Computation time: 61.000000ms
+[Sun Oct 27 20:03:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:03:39 2024] [INFO]   Safety score: 0.350119
+[Sun Oct 27 20:03:39 2024] [INFO]   Smoothness: 0.998288
+[Sun Oct 27 20:03:39 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 20:03:41 2024] [INFO] RRT* Results:
+[Sun Oct 27 20:03:41 2024] [INFO]   Path length: 2.475000m
+[Sun Oct 27 20:03:41 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:03:41 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:03:41 2024] [INFO]   Safety score: 0.395838
+[Sun Oct 27 20:03:41 2024] [INFO]   Smoothness: 0.974764
+[Sun Oct 27 20:03:41 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 20:15:31 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 20:15:33 2024] [INFO] SBPL Results:
+[Sun Oct 27 20:15:33 2024] [INFO]   Path length: 1.965685m
+[Sun Oct 27 20:15:33 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:15:33 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:15:33 2024] [INFO]   Safety score: 0.383711
+[Sun Oct 27 20:15:33 2024] [INFO]   Smoothness: 0.978053
+[Sun Oct 27 20:15:33 2024] [INFO] Testing A* planner
+[Sun Oct 27 20:15:38 2024] [INFO] A* Results:
+[Sun Oct 27 20:15:38 2024] [INFO]   Path length: 2.295000m
+[Sun Oct 27 20:15:38 2024] [INFO]   Computation time: 59.000000ms
+[Sun Oct 27 20:15:38 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:15:38 2024] [INFO]   Safety score: 0.350119
+[Sun Oct 27 20:15:38 2024] [INFO]   Smoothness: 0.998288
+[Sun Oct 27 20:15:38 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 20:15:40 2024] [INFO] RRT* Results:
+[Sun Oct 27 20:15:40 2024] [INFO]   Path length: 2.475000m
+[Sun Oct 27 20:15:40 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:15:40 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:15:40 2024] [INFO]   Safety score: 0.391251
+[Sun Oct 27 20:15:40 2024] [INFO]   Smoothness: 0.985987
+[Sun Oct 27 20:15:40 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 20:18:25 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 20:18:27 2024] [INFO] SBPL Results:
+[Sun Oct 27 20:18:27 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 20:18:27 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:18:27 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:18:27 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 20:18:27 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:18:27 2024] [INFO] Testing A* planner
+[Sun Oct 27 20:20:30 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 20:20:42 2024] [INFO] SBPL Results:
+[Sun Oct 27 20:20:42 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 20:20:42 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 20:20:42 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:20:42 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 20:20:42 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:20:42 2024] [INFO] Testing A* planner
+[Sun Oct 27 20:25:07 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 20:25:14 2024] [INFO] SBPL Results:
+[Sun Oct 27 20:25:14 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 20:25:14 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 20:25:14 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:25:14 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 20:25:14 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:25:14 2024] [INFO] Testing A* planner
+[Sun Oct 27 20:34:02 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 20:34:07 2024] [INFO] SBPL Results:
+[Sun Oct 27 20:34:07 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 20:34:07 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:34:07 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:34:07 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 20:34:07 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:34:07 2024] [INFO] Testing A* planner
+[Sun Oct 27 20:34:23 2024] [ERROR] A* planner failed to find a path
+[Sun Oct 27 20:34:23 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 20:34:27 2024] [INFO] RRT* Results:
+[Sun Oct 27 20:34:27 2024] [INFO]   Path length: 2.475000m
+[Sun Oct 27 20:34:27 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:34:27 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:34:27 2024] [INFO]   Safety score: 0.647456
+[Sun Oct 27 20:34:27 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:34:27 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 20:49:34 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 20:49:36 2024] [INFO] SBPL Results:
+[Sun Oct 27 20:49:36 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 20:49:36 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:49:36 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:49:36 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 20:49:36 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:49:36 2024] [INFO] Testing A* planner
+[Sun Oct 27 20:49:37 2024] [INFO] A* Results:
+[Sun Oct 27 20:49:37 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 20:49:37 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:49:37 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:49:37 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 20:49:37 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:49:37 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 20:49:39 2024] [INFO] RRT* Results:
+[Sun Oct 27 20:49:39 2024] [INFO]   Path length: 2.475000m
+[Sun Oct 27 20:49:39 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:49:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:49:39 2024] [INFO]   Safety score: 0.632302
+[Sun Oct 27 20:49:39 2024] [INFO]   Smoothness: 0.996335
+[Sun Oct 27 20:49:39 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 20:59:20 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 20:59:22 2024] [INFO] SBPL Results:
+[Sun Oct 27 20:59:22 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 20:59:22 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:59:22 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:59:22 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 20:59:22 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:59:22 2024] [INFO] Testing A* planner
+[Sun Oct 27 20:59:23 2024] [INFO] A* Results:
+[Sun Oct 27 20:59:23 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 20:59:23 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:59:23 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:59:23 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 20:59:23 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:59:23 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 20:59:24 2024] [INFO] RRT* Results:
+[Sun Oct 27 20:59:24 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 20:59:24 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 20:59:24 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 20:59:24 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 20:59:24 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 20:59:24 2024] [INFO] Testing CHOMPP planner
+[Sun Oct 27 21:18:24 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 21:18:26 2024] [INFO] SBPL Results:
+[Sun Oct 27 21:18:26 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 21:18:26 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:18:26 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:18:26 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 21:18:26 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:18:26 2024] [INFO] Testing A* planner
+[Sun Oct 27 21:18:27 2024] [INFO] A* Results:
+[Sun Oct 27 21:18:27 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 21:18:27 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:18:27 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:18:27 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 21:18:27 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:18:27 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 21:18:28 2024] [INFO] RRT* Results:
+[Sun Oct 27 21:18:28 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 21:18:28 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:18:28 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:18:28 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 21:18:28 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:23:59 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 21:24:02 2024] [INFO] SBPL Results:
+[Sun Oct 27 21:24:02 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 21:24:02 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:24:02 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:24:02 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 21:24:02 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:24:02 2024] [INFO] Testing A* planner
+[Sun Oct 27 21:24:03 2024] [INFO] A* Results:
+[Sun Oct 27 21:24:03 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 21:24:03 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:24:03 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:24:03 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 21:24:03 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:24:03 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 21:24:04 2024] [INFO] RRT* Results:
+[Sun Oct 27 21:24:04 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 21:24:04 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:24:04 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:24:04 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 21:24:04 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:46:02 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 21:52:03 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 21:52:09 2024] [INFO] SBPL Results:
+[Sun Oct 27 21:52:09 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 21:52:09 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:52:09 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:52:09 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 21:52:09 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:52:09 2024] [INFO] Testing A* planner
+[Sun Oct 27 21:52:11 2024] [INFO] A* Results:
+[Sun Oct 27 21:52:11 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 21:52:11 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:52:11 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:52:11 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 21:52:11 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:52:11 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 21:52:12 2024] [INFO] RRT* Results:
+[Sun Oct 27 21:52:12 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 21:52:12 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:52:12 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:52:12 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 21:52:12 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:58:52 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 21:58:55 2024] [INFO] SBPL Results:
+[Sun Oct 27 21:58:55 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 21:58:55 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:58:55 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:58:55 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 21:58:55 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:58:55 2024] [INFO] Testing A* planner
+[Sun Oct 27 21:58:56 2024] [INFO] A* Results:
+[Sun Oct 27 21:58:56 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 21:58:56 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:58:56 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:58:56 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 21:58:56 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 21:58:56 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 21:58:57 2024] [INFO] RRT* Results:
+[Sun Oct 27 21:58:57 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 21:58:57 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 21:58:57 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 21:58:57 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 21:58:57 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:01:56 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:01:59 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:01:59 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 22:01:59 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:01:59 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:01:59 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 22:01:59 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:01:59 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:02:00 2024] [INFO] A* Results:
+[Sun Oct 27 22:02:00 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:02:00 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:02:00 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:02:00 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:02:00 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:02:00 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:02:01 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:02:01 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:02:01 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:02:01 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:02:01 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:02:01 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:07:11 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:07:14 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:07:14 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 22:07:14 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:07:14 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:07:14 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 22:07:14 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:07:14 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:07:15 2024] [INFO] A* Results:
+[Sun Oct 27 22:07:15 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:07:15 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:07:15 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:07:15 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:07:15 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:07:15 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:07:16 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:07:16 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:07:16 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:07:16 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:07:16 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:07:16 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:19:35 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:19:38 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:19:38 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 22:19:38 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:19:38 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:19:38 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 22:19:38 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:19:38 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:19:39 2024] [INFO] A* Results:
+[Sun Oct 27 22:19:39 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:19:39 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:19:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:19:39 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:19:39 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:19:39 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:19:40 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:19:40 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:19:40 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:19:40 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:19:40 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:19:40 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:20:08 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:20:11 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:20:11 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 22:20:11 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:20:11 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:20:11 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 22:20:11 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:20:11 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:20:12 2024] [INFO] A* Results:
+[Sun Oct 27 22:20:12 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:20:12 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:20:12 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:20:12 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:20:12 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:20:12 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:20:13 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:20:13 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:20:13 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:20:13 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:20:13 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:20:13 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:23:00 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:23:50 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:24:49 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:25:31 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:31:37 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:31:42 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:31:42 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 22:31:42 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:31:42 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:31:42 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 22:31:42 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:31:42 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:31:43 2024] [INFO] A* Results:
+[Sun Oct 27 22:31:43 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:31:43 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:31:43 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:31:43 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:31:43 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:31:43 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:31:44 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:31:44 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:31:44 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:31:44 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:31:44 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:31:44 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:38:27 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:38:30 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:38:30 2024] [INFO]   Path length: 5.500000m
+[Sun Oct 27 22:38:30 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:38:30 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:38:30 2024] [INFO]   Safety score: 1.014904
+[Sun Oct 27 22:38:30 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:38:30 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:38:31 2024] [INFO] A* Results:
+[Sun Oct 27 22:38:31 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:38:31 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:38:31 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:38:31 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:38:31 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:38:31 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:38:32 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:38:32 2024] [INFO]   Path length: 6.000000m
+[Sun Oct 27 22:38:32 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:38:32 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:38:32 2024] [INFO]   Safety score: 0.754852
+[Sun Oct 27 22:38:32 2024] [INFO]   Smoothness: 1.000000
+[Sun Oct 27 22:39:37 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:39:41 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:39:41 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 22:39:41 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 22:39:41 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:39:41 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 22:39:41 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 22:39:41 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:39:43 2024] [INFO] A* Results:
+[Sun Oct 27 22:39:43 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 22:39:43 2024] [INFO]   Computation time: 579.000000ms
+[Sun Oct 27 22:39:43 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:39:43 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 22:39:43 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 22:39:43 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:39:52 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:39:52 2024] [INFO]   Path length: 14.128114m
+[Sun Oct 27 22:39:52 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:39:52 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:39:52 2024] [INFO]   Safety score: 0.771523
+[Sun Oct 27 22:39:52 2024] [INFO]   Smoothness: 0.990315
+[Sun Oct 27 22:50:17 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:50:20 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:50:20 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 22:50:20 2024] [INFO]   Computation time: 13.000000ms
+[Sun Oct 27 22:50:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:50:20 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 22:50:20 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 22:50:20 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:50:22 2024] [INFO] A* Results:
+[Sun Oct 27 22:50:22 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 22:50:22 2024] [INFO]   Computation time: 572.000000ms
+[Sun Oct 27 22:50:22 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:50:22 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 22:50:22 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 22:50:22 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:50:32 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:50:32 2024] [INFO]   Path length: 15.937143m
+[Sun Oct 27 22:50:32 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 22:50:32 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:50:32 2024] [INFO]   Safety score: 0.510554
+[Sun Oct 27 22:50:32 2024] [INFO]   Smoothness: 0.986709
+[Sun Oct 27 22:54:48 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 22:54:52 2024] [INFO] SBPL Results:
+[Sun Oct 27 22:54:52 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 22:54:52 2024] [INFO]   Computation time: 13.000000ms
+[Sun Oct 27 22:54:52 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:54:52 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 22:54:52 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 22:54:52 2024] [INFO] Testing A* planner
+[Sun Oct 27 22:54:54 2024] [INFO] A* Results:
+[Sun Oct 27 22:54:54 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 22:54:54 2024] [INFO]   Computation time: 608.000000ms
+[Sun Oct 27 22:54:54 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:54:54 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 22:54:54 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 22:54:54 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 22:55:04 2024] [INFO] RRT* Results:
+[Sun Oct 27 22:55:04 2024] [INFO]   Path length: 15.840383m
+[Sun Oct 27 22:55:04 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 22:55:04 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 22:55:04 2024] [INFO]   Safety score: 0.472657
+[Sun Oct 27 22:55:04 2024] [INFO]   Smoothness: 0.984031
+[Sun Oct 27 23:04:25 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:04:28 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:04:28 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:04:28 2024] [INFO]   Computation time: 13.000000ms
+[Sun Oct 27 23:04:28 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:04:28 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:04:28 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:04:28 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:04:29 2024] [INFO] A* Results:
+[Sun Oct 27 23:04:29 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:04:29 2024] [INFO]   Computation time: 600.000000ms
+[Sun Oct 27 23:04:29 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:04:29 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:04:29 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:04:29 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:04:39 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:04:39 2024] [INFO]   Path length: 16.395361m
+[Sun Oct 27 23:04:39 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 23:04:39 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:04:39 2024] [INFO]   Safety score: 0.509248
+[Sun Oct 27 23:04:39 2024] [INFO]   Smoothness: 0.986123
+[Sun Oct 27 23:05:09 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:05:13 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:05:16 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:05:16 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:05:16 2024] [INFO]   Computation time: 13.000000ms
+[Sun Oct 27 23:05:16 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:05:16 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:05:16 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:05:16 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:05:17 2024] [INFO] A* Results:
+[Sun Oct 27 23:05:17 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:05:17 2024] [INFO]   Computation time: 565.000000ms
+[Sun Oct 27 23:05:17 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:05:17 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:05:17 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:05:18 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:05:25 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:05:25 2024] [INFO]   Path length: 14.839554m
+[Sun Oct 27 23:05:25 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 23:05:25 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:05:25 2024] [INFO]   Safety score: 0.716915
+[Sun Oct 27 23:05:25 2024] [INFO]   Smoothness: 0.986627
+[Sun Oct 27 23:07:38 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:07:41 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:07:41 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:07:41 2024] [INFO]   Computation time: 13.000000ms
+[Sun Oct 27 23:07:41 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:07:41 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:07:41 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:07:41 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:07:42 2024] [INFO] A* Results:
+[Sun Oct 27 23:07:42 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:07:42 2024] [INFO]   Computation time: 566.000000ms
+[Sun Oct 27 23:07:42 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:07:42 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:07:42 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:07:42 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:07:52 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:07:52 2024] [INFO]   Path length: 16.858314m
+[Sun Oct 27 23:07:52 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 23:07:52 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:07:52 2024] [INFO]   Safety score: 0.591419
+[Sun Oct 27 23:07:52 2024] [INFO]   Smoothness: 0.989410
+[Sun Oct 27 23:18:04 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:18:08 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:18:08 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:18:08 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 23:18:08 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:18:08 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:18:08 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:18:08 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:18:10 2024] [INFO] A* Results:
+[Sun Oct 27 23:18:10 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:18:10 2024] [INFO]   Computation time: 619.000000ms
+[Sun Oct 27 23:18:10 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:18:10 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:18:10 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:18:10 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:18:19 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:18:19 2024] [INFO]   Path length: 14.994166m
+[Sun Oct 27 23:18:19 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 23:18:19 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:18:19 2024] [INFO]   Safety score: 0.776083
+[Sun Oct 27 23:18:19 2024] [INFO]   Smoothness: 0.987478
+[Sun Oct 27 23:19:05 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:19:09 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:19:09 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:19:09 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 23:19:09 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:19:09 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:19:09 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:19:09 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:19:10 2024] [INFO] A* Results:
+[Sun Oct 27 23:19:10 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:19:10 2024] [INFO]   Computation time: 591.000000ms
+[Sun Oct 27 23:19:10 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:19:10 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:19:10 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:19:10 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:19:20 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:19:20 2024] [INFO]   Path length: 14.456817m
+[Sun Oct 27 23:19:20 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 23:19:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:19:20 2024] [INFO]   Safety score: 0.760485
+[Sun Oct 27 23:19:20 2024] [INFO]   Smoothness: 0.990846
+[Sun Oct 27 23:22:39 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:22:43 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:22:43 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:22:43 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 23:22:43 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:22:43 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:22:43 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:22:43 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:22:45 2024] [INFO] A* Results:
+[Sun Oct 27 23:22:45 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:22:45 2024] [INFO]   Computation time: 571.000000ms
+[Sun Oct 27 23:22:45 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:22:45 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:22:45 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:22:45 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:22:54 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:22:54 2024] [INFO]   Path length: 15.938729m
+[Sun Oct 27 23:22:54 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 23:22:54 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:22:54 2024] [INFO]   Safety score: 0.500781
+[Sun Oct 27 23:22:54 2024] [INFO]   Smoothness: 0.986877
+[Sun Oct 27 23:24:22 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:24:26 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:24:26 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:24:26 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 23:24:26 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:24:26 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:24:26 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:24:26 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:24:27 2024] [INFO] A* Results:
+[Sun Oct 27 23:24:27 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:24:27 2024] [INFO]   Computation time: 567.000000ms
+[Sun Oct 27 23:24:27 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:24:27 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:24:27 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:24:28 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:24:37 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:24:37 2024] [INFO]   Path length: 16.717135m
+[Sun Oct 27 23:24:37 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 23:24:37 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:24:37 2024] [INFO]   Safety score: 0.546727
+[Sun Oct 27 23:24:37 2024] [INFO]   Smoothness: 0.988267
+[Sun Oct 27 23:25:27 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:25:31 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:25:31 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:25:31 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 23:25:31 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:25:31 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:25:31 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:25:31 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:25:32 2024] [INFO] A* Results:
+[Sun Oct 27 23:25:32 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:25:32 2024] [INFO]   Computation time: 589.000000ms
+[Sun Oct 27 23:25:32 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:25:32 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:25:32 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:25:32 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:25:41 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:25:41 2024] [INFO]   Path length: 14.146732m
+[Sun Oct 27 23:25:41 2024] [INFO]   Computation time: 0.000000ms
+[Sun Oct 27 23:25:41 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:25:41 2024] [INFO]   Safety score: 0.829293
+[Sun Oct 27 23:25:41 2024] [INFO]   Smoothness: 0.985846
+[Sun Oct 27 23:32:36 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:39:39 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:39:46 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:39:46 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:39:46 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 23:39:46 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:39:46 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:39:46 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:39:46 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:39:48 2024] [INFO] A* Results:
+[Sun Oct 27 23:39:48 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:39:48 2024] [INFO]   Computation time: 584.000000ms
+[Sun Oct 27 23:39:48 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:39:48 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:39:48 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:39:48 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:39:57 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:39:57 2024] [INFO]   Path length: 15.373500m
+[Sun Oct 27 23:39:57 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 23:39:57 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:39:57 2024] [INFO]   Safety score: 0.851523
+[Sun Oct 27 23:39:57 2024] [INFO]   Smoothness: 0.986823
+[Sun Oct 27 23:41:04 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:41:08 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:41:08 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:41:08 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 23:41:08 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:41:08 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:41:08 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:41:08 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:41:10 2024] [INFO] A* Results:
+[Sun Oct 27 23:41:10 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:41:10 2024] [INFO]   Computation time: 574.000000ms
+[Sun Oct 27 23:41:10 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:41:10 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:41:10 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:41:10 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:41:20 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:41:20 2024] [INFO]   Path length: 16.862695m
+[Sun Oct 27 23:41:20 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 23:41:20 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:41:20 2024] [INFO]   Safety score: 0.482622
+[Sun Oct 27 23:41:20 2024] [INFO]   Smoothness: 0.985266
+[Sun Oct 27 23:53:09 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:57:59 2024] [INFO] Testing SBPL planner
+[Sun Oct 27 23:58:05 2024] [INFO] SBPL Results:
+[Sun Oct 27 23:58:05 2024] [INFO]   Path length: 14.307464m
+[Sun Oct 27 23:58:05 2024] [INFO]   Computation time: 14.000000ms
+[Sun Oct 27 23:58:05 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:58:05 2024] [INFO]   Safety score: 0.701955
+[Sun Oct 27 23:58:05 2024] [INFO]   Smoothness: 0.876641
+[Sun Oct 27 23:58:05 2024] [INFO] Testing A* planner
+[Sun Oct 27 23:58:06 2024] [INFO] A* Results:
+[Sun Oct 27 23:58:06 2024] [INFO]   Path length: 13.391466m
+[Sun Oct 27 23:58:06 2024] [INFO]   Computation time: 578.000000ms
+[Sun Oct 27 23:58:06 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:58:06 2024] [INFO]   Safety score: 0.710869
+[Sun Oct 27 23:58:06 2024] [INFO]   Smoothness: 0.566534
+[Sun Oct 27 23:58:06 2024] [INFO] Testing RRT* planner
+[Sun Oct 27 23:58:16 2024] [INFO] RRT* Results:
+[Sun Oct 27 23:58:16 2024] [INFO]   Path length: 15.977445m
+[Sun Oct 27 23:58:16 2024] [INFO]   Computation time: 1.000000ms
+[Sun Oct 27 23:58:16 2024] [INFO]   Memory usage: 0.000000MB
+[Sun Oct 27 23:58:16 2024] [INFO]   Safety score: 0.469502
+[Sun Oct 27 23:58:16 2024] [INFO]   Smoothness: 0.986177
+[Mon Oct 28 00:03:36 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:03:58 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:05:38 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:05:42 2024] [INFO] SBPL Results:
+[Mon Oct 28 00:05:42 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 00:05:42 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 00:05:42 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:05:42 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 00:05:42 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 00:05:42 2024] [INFO] Testing A* planner
+[Mon Oct 28 00:05:44 2024] [INFO] A* Results:
+[Mon Oct 28 00:05:44 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 00:05:44 2024] [INFO]   Computation time: 588.000000ms
+[Mon Oct 28 00:05:44 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:05:44 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 00:05:44 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 00:05:44 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 00:05:54 2024] [INFO] RRT* Results:
+[Mon Oct 28 00:05:54 2024] [INFO]   Path length: 16.540580m
+[Mon Oct 28 00:05:54 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 00:05:54 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:05:54 2024] [INFO]   Safety score: 0.792994
+[Mon Oct 28 00:05:54 2024] [INFO]   Smoothness: 0.985546
+[Mon Oct 28 00:20:10 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:20:14 2024] [INFO] SBPL Results:
+[Mon Oct 28 00:20:14 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 00:20:14 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 00:20:14 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:20:14 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 00:20:14 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 00:20:14 2024] [INFO] Testing A* planner
+[Mon Oct 28 00:20:16 2024] [INFO] A* Results:
+[Mon Oct 28 00:20:16 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 00:20:16 2024] [INFO]   Computation time: 587.000000ms
+[Mon Oct 28 00:20:16 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:20:16 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 00:20:16 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 00:20:16 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 00:20:25 2024] [INFO] RRT* Results:
+[Mon Oct 28 00:20:25 2024] [INFO]   Path length: 16.269863m
+[Mon Oct 28 00:20:25 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 00:20:25 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:20:25 2024] [INFO]   Safety score: 0.483468
+[Mon Oct 28 00:20:25 2024] [INFO]   Smoothness: 0.984373
+[Mon Oct 28 00:35:47 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:35:51 2024] [INFO] SBPL Results:
+[Mon Oct 28 00:35:51 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 00:35:51 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 00:35:51 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:35:51 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 00:35:51 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 00:35:51 2024] [INFO] Testing A* planner
+[Mon Oct 28 00:35:52 2024] [INFO] A* Results:
+[Mon Oct 28 00:35:52 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 00:35:52 2024] [INFO]   Computation time: 585.000000ms
+[Mon Oct 28 00:35:52 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:35:52 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 00:35:52 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 00:35:52 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 00:36:03 2024] [INFO] RRT* Results:
+[Mon Oct 28 00:36:03 2024] [INFO]   Path length: 19.237914m
+[Mon Oct 28 00:36:03 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 00:36:03 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:36:03 2024] [INFO]   Safety score: 0.622090
+[Mon Oct 28 00:36:03 2024] [INFO]   Smoothness: 0.988118
+[Mon Oct 28 00:38:57 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:39:01 2024] [INFO] SBPL Results:
+[Mon Oct 28 00:39:01 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 00:39:01 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 00:39:01 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:39:01 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 00:39:01 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 00:39:01 2024] [INFO] Testing A* planner
+[Mon Oct 28 00:39:02 2024] [INFO] A* Results:
+[Mon Oct 28 00:39:02 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 00:39:02 2024] [INFO]   Computation time: 591.000000ms
+[Mon Oct 28 00:39:02 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:39:02 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 00:39:02 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 00:39:02 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 00:39:20 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:39:24 2024] [INFO] SBPL Results:
+[Mon Oct 28 00:39:24 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 00:39:24 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 00:39:24 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:39:24 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 00:39:24 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 00:39:24 2024] [INFO] Testing A* planner
+[Mon Oct 28 00:39:26 2024] [INFO] A* Results:
+[Mon Oct 28 00:39:26 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 00:39:26 2024] [INFO]   Computation time: 584.000000ms
+[Mon Oct 28 00:39:26 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:39:26 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 00:39:26 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 00:39:26 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 00:45:46 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:45:51 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:45:54 2024] [INFO] SBPL Results:
+[Mon Oct 28 00:45:54 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 00:45:54 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 00:45:54 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:45:54 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 00:45:54 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 00:45:54 2024] [INFO] Testing A* planner
+[Mon Oct 28 00:45:56 2024] [INFO] A* Results:
+[Mon Oct 28 00:45:56 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 00:45:56 2024] [INFO]   Computation time: 583.000000ms
+[Mon Oct 28 00:45:56 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:45:56 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 00:45:56 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 00:45:56 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 00:46:05 2024] [INFO] RRT* Results:
+[Mon Oct 28 00:46:05 2024] [INFO]   Path length: 15.800470m
+[Mon Oct 28 00:46:05 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 00:46:05 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:46:05 2024] [INFO]   Safety score: 0.492051
+[Mon Oct 28 00:46:05 2024] [INFO]   Smoothness: 0.987068
+[Mon Oct 28 00:46:37 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:46:41 2024] [INFO] SBPL Results:
+[Mon Oct 28 00:46:41 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 00:46:41 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 00:46:41 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:46:41 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 00:46:41 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 00:46:41 2024] [INFO] Testing A* planner
+[Mon Oct 28 00:46:42 2024] [INFO] A* Results:
+[Mon Oct 28 00:46:42 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 00:46:42 2024] [INFO]   Computation time: 576.000000ms
+[Mon Oct 28 00:46:42 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:46:42 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 00:46:42 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 00:46:42 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 00:54:01 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 00:54:06 2024] [INFO] SBPL Results:
+[Mon Oct 28 00:54:06 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 00:54:06 2024] [INFO]   Computation time: 46.000000ms
+[Mon Oct 28 00:54:06 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 00:54:06 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 00:54:06 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 00:54:06 2024] [INFO] Testing A* planner
+[Mon Oct 28 01:28:34 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 01:29:09 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 01:40:14 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 01:40:19 2024] [INFO] SBPL Results:
+[Mon Oct 28 01:40:19 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 01:40:19 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 01:40:19 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:40:19 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 01:40:19 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 01:40:19 2024] [INFO] Testing A* planner
+[Mon Oct 28 01:40:21 2024] [INFO] A* Results:
+[Mon Oct 28 01:40:21 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 01:40:21 2024] [INFO]   Computation time: 572.000000ms
+[Mon Oct 28 01:40:21 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:40:21 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 01:40:21 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 01:40:21 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 01:40:28 2024] [INFO] RRT* Results:
+[Mon Oct 28 01:40:28 2024] [INFO]   Path length: 14.105898m
+[Mon Oct 28 01:40:28 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 01:40:28 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:40:28 2024] [INFO]   Safety score: 0.815668
+[Mon Oct 28 01:40:28 2024] [INFO]   Smoothness: 0.987069
+[Mon Oct 28 01:43:30 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 01:43:33 2024] [INFO] SBPL Results:
+[Mon Oct 28 01:43:33 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 01:43:33 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 01:43:33 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:43:33 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 01:43:33 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 01:43:33 2024] [INFO] Testing A* planner
+[Mon Oct 28 01:43:34 2024] [INFO] A* Results:
+[Mon Oct 28 01:43:34 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 01:43:34 2024] [INFO]   Computation time: 562.000000ms
+[Mon Oct 28 01:43:34 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:43:34 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 01:43:34 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 01:43:34 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 01:43:44 2024] [INFO] RRT* Results:
+[Mon Oct 28 01:43:44 2024] [INFO]   Path length: 16.166744m
+[Mon Oct 28 01:43:44 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 01:43:44 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:43:44 2024] [INFO]   Safety score: 0.590633
+[Mon Oct 28 01:43:44 2024] [INFO]   Smoothness: 0.986712
+[Mon Oct 28 01:44:00 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 01:44:04 2024] [INFO] SBPL Results:
+[Mon Oct 28 01:44:04 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 01:44:04 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 01:44:04 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:44:04 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 01:44:04 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 01:44:04 2024] [INFO] Testing A* planner
+[Mon Oct 28 01:44:05 2024] [INFO] A* Results:
+[Mon Oct 28 01:44:05 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 01:44:05 2024] [INFO]   Computation time: 575.000000ms
+[Mon Oct 28 01:44:05 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:44:05 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 01:44:05 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 01:44:05 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 01:44:14 2024] [INFO] RRT* Results:
+[Mon Oct 28 01:44:14 2024] [INFO]   Path length: 15.730874m
+[Mon Oct 28 01:44:14 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 01:44:14 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:44:14 2024] [INFO]   Safety score: 0.483989
+[Mon Oct 28 01:44:14 2024] [INFO]   Smoothness: 0.989348
+[Mon Oct 28 01:46:55 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 01:46:58 2024] [INFO] SBPL Results:
+[Mon Oct 28 01:46:58 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 01:46:58 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 01:46:58 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:46:58 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 01:46:58 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 01:46:58 2024] [INFO] Testing A* planner
+[Mon Oct 28 01:46:59 2024] [INFO] A* Results:
+[Mon Oct 28 01:46:59 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 01:46:59 2024] [INFO]   Computation time: 564.000000ms
+[Mon Oct 28 01:46:59 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:46:59 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 01:46:59 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 01:46:59 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 01:47:08 2024] [INFO] RRT* Results:
+[Mon Oct 28 01:47:08 2024] [INFO]   Path length: 13.993425m
+[Mon Oct 28 01:47:08 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 01:47:08 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:47:08 2024] [INFO]   Safety score: 0.780660
+[Mon Oct 28 01:47:08 2024] [INFO]   Smoothness: 0.989754
+[Mon Oct 28 01:51:07 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 01:51:10 2024] [INFO] SBPL Results:
+[Mon Oct 28 01:51:10 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 01:51:10 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 01:51:10 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:51:10 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 01:51:10 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 01:51:10 2024] [INFO] Testing A* planner
+[Mon Oct 28 01:51:11 2024] [INFO] A* Results:
+[Mon Oct 28 01:51:11 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 01:51:11 2024] [INFO]   Computation time: 566.000000ms
+[Mon Oct 28 01:51:11 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:51:11 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 01:51:11 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 01:51:11 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 01:51:20 2024] [INFO] RRT* Results:
+[Mon Oct 28 01:51:20 2024] [INFO]   Path length: 16.405577m
+[Mon Oct 28 01:51:20 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 01:51:20 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:51:20 2024] [INFO]   Safety score: 0.476348
+[Mon Oct 28 01:51:20 2024] [INFO]   Smoothness: 0.985905
+[Mon Oct 28 01:53:49 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 01:53:52 2024] [INFO] SBPL Results:
+[Mon Oct 28 01:53:52 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 01:53:52 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 01:53:52 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:53:52 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 01:53:52 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 01:53:52 2024] [INFO] Testing A* planner
+[Mon Oct 28 01:53:54 2024] [INFO] A* Results:
+[Mon Oct 28 01:53:54 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 01:53:54 2024] [INFO]   Computation time: 582.000000ms
+[Mon Oct 28 01:53:54 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:53:54 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 01:53:54 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 01:53:54 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 01:54:03 2024] [INFO] RRT* Results:
+[Mon Oct 28 01:54:03 2024] [INFO]   Path length: 16.144512m
+[Mon Oct 28 01:54:03 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 01:54:03 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 01:54:03 2024] [INFO]   Safety score: 1.043704
+[Mon Oct 28 01:54:03 2024] [INFO]   Smoothness: 0.987739
+[Mon Oct 28 02:17:41 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:17:47 2024] [INFO] SBPL Results:
+[Mon Oct 28 02:17:47 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 02:17:47 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 02:17:47 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:17:47 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 02:17:47 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 02:17:47 2024] [INFO] Testing A* planner
+[Mon Oct 28 02:17:48 2024] [INFO] A* Results:
+[Mon Oct 28 02:17:48 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 02:17:48 2024] [INFO]   Computation time: 573.000000ms
+[Mon Oct 28 02:17:48 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:17:48 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 02:17:48 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 02:17:48 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 02:18:09 2024] [INFO] RRT* Results:
+[Mon Oct 28 02:18:09 2024] [INFO]   Path length: 14.187338m
+[Mon Oct 28 02:18:09 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 02:18:09 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:18:09 2024] [INFO]   Safety score: 0.769169
+[Mon Oct 28 02:18:09 2024] [INFO]   Smoothness: 0.988849
+[Mon Oct 28 02:23:03 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:23:09 2024] [INFO] SBPL Results:
+[Mon Oct 28 02:23:09 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 02:23:09 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 02:23:09 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:23:09 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 02:23:09 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 02:23:09 2024] [INFO] Testing A* planner
+[Mon Oct 28 02:23:10 2024] [INFO] A* Results:
+[Mon Oct 28 02:23:10 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 02:23:10 2024] [INFO]   Computation time: 573.000000ms
+[Mon Oct 28 02:23:10 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:23:10 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 02:23:10 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 02:23:10 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 02:23:38 2024] [INFO] RRT* Results:
+[Mon Oct 28 02:23:38 2024] [INFO]   Path length: 17.861633m
+[Mon Oct 28 02:23:38 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 02:23:38 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:23:38 2024] [INFO]   Safety score: 0.654348
+[Mon Oct 28 02:23:38 2024] [INFO]   Smoothness: 0.986685
+[Mon Oct 28 02:27:31 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:27:35 2024] [INFO] SBPL Results:
+[Mon Oct 28 02:27:35 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 02:27:35 2024] [INFO]   Computation time: 15.000000ms
+[Mon Oct 28 02:27:35 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:27:35 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 02:27:35 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 02:27:35 2024] [INFO] Testing A* planner
+[Mon Oct 28 02:27:36 2024] [INFO] A* Results:
+[Mon Oct 28 02:27:36 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 02:27:36 2024] [INFO]   Computation time: 570.000000ms
+[Mon Oct 28 02:27:36 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:27:36 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 02:27:36 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 02:27:36 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 02:27:46 2024] [INFO] RRT* Results:
+[Mon Oct 28 02:27:46 2024] [INFO]   Path length: 16.439986m
+[Mon Oct 28 02:27:46 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 02:27:46 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:27:46 2024] [INFO]   Safety score: 0.558495
+[Mon Oct 28 02:27:46 2024] [INFO]   Smoothness: 0.988243
+[Mon Oct 28 02:30:16 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:30:19 2024] [INFO] SBPL Results:
+[Mon Oct 28 02:30:19 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 02:30:19 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 02:30:19 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:30:19 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 02:30:19 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 02:30:19 2024] [INFO] Testing A* planner
+[Mon Oct 28 02:30:20 2024] [INFO] A* Results:
+[Mon Oct 28 02:30:20 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 02:30:20 2024] [INFO]   Computation time: 568.000000ms
+[Mon Oct 28 02:30:20 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:30:20 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 02:30:20 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 02:30:20 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 02:31:53 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:31:57 2024] [INFO] SBPL Results:
+[Mon Oct 28 02:31:57 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 02:31:57 2024] [INFO]   Computation time: 15.000000ms
+[Mon Oct 28 02:31:57 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:31:57 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 02:31:57 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 02:31:57 2024] [INFO] Testing A* planner
+[Mon Oct 28 02:31:58 2024] [INFO] A* Results:
+[Mon Oct 28 02:31:58 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 02:31:58 2024] [INFO]   Computation time: 575.000000ms
+[Mon Oct 28 02:31:58 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:31:58 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 02:31:58 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 02:31:58 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 02:40:34 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:40:38 2024] [INFO] SBPL Results:
+[Mon Oct 28 02:40:38 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 02:40:38 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 02:40:38 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:40:38 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 02:40:38 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 02:40:38 2024] [INFO] Testing A* planner
+[Mon Oct 28 02:40:40 2024] [INFO] A* Results:
+[Mon Oct 28 02:40:40 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 02:40:40 2024] [INFO]   Computation time: 576.000000ms
+[Mon Oct 28 02:40:40 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:40:40 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 02:40:40 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 02:40:40 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 02:40:49 2024] [INFO] RRT* Results:
+[Mon Oct 28 02:40:49 2024] [INFO]   Path length: 14.561424m
+[Mon Oct 28 02:40:49 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 02:40:49 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:40:49 2024] [INFO]   Safety score: 0.779441
+[Mon Oct 28 02:40:49 2024] [INFO]   Smoothness: 0.986494
+[Mon Oct 28 02:55:27 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:56:26 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:59:02 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 02:59:09 2024] [INFO] SBPL Results:
+[Mon Oct 28 02:59:09 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 02:59:09 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 02:59:09 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:59:09 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 02:59:09 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 02:59:09 2024] [INFO] Testing A* planner
+[Mon Oct 28 02:59:10 2024] [INFO] A* Results:
+[Mon Oct 28 02:59:10 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 02:59:10 2024] [INFO]   Computation time: 577.000000ms
+[Mon Oct 28 02:59:10 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:59:10 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 02:59:10 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 02:59:10 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 02:59:20 2024] [INFO] RRT* Results:
+[Mon Oct 28 02:59:20 2024] [INFO]   Path length: 15.402642m
+[Mon Oct 28 02:59:20 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 02:59:20 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 02:59:20 2024] [INFO]   Safety score: 0.479436
+[Mon Oct 28 02:59:20 2024] [INFO]   Smoothness: 0.990918
+[Mon Oct 28 03:12:10 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 03:12:13 2024] [INFO] SBPL Results:
+[Mon Oct 28 03:12:13 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 03:12:13 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 03:12:13 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 03:12:13 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 03:12:13 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 03:12:13 2024] [INFO] Testing A* planner
+[Mon Oct 28 03:12:15 2024] [INFO] A* Results:
+[Mon Oct 28 03:12:15 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 03:12:15 2024] [INFO]   Computation time: 570.000000ms
+[Mon Oct 28 03:12:15 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 03:12:15 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 03:12:15 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 03:12:15 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 03:12:23 2024] [INFO] RRT* Results:
+[Mon Oct 28 03:12:23 2024] [INFO]   Path length: 14.882061m
+[Mon Oct 28 03:12:23 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 03:12:23 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 03:12:23 2024] [INFO]   Safety score: 0.784963
+[Mon Oct 28 03:12:23 2024] [INFO]   Smoothness: 0.987389
+[Mon Oct 28 03:16:26 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 03:55:05 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 03:55:09 2024] [INFO] SBPL Results:
+[Mon Oct 28 03:55:09 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 03:55:09 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 03:55:09 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 03:55:09 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 03:55:09 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 03:55:09 2024] [INFO] Testing A* planner
+[Mon Oct 28 03:55:11 2024] [INFO] A* Results:
+[Mon Oct 28 03:55:11 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 03:55:11 2024] [INFO]   Computation time: 582.000000ms
+[Mon Oct 28 03:55:11 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 03:55:11 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 03:55:11 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 03:55:11 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 03:55:20 2024] [INFO] RRT* Results:
+[Mon Oct 28 03:55:20 2024] [INFO]   Path length: 14.171780m
+[Mon Oct 28 03:55:20 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 03:55:20 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 03:55:20 2024] [INFO]   Safety score: 0.717987
+[Mon Oct 28 03:55:20 2024] [INFO]   Smoothness: 0.986342
+[Mon Oct 28 04:00:11 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:00:13 2024] [INFO] SBPL Results:
+[Mon Oct 28 04:00:13 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 04:00:13 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 04:00:13 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:00:13 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 04:00:13 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 04:00:13 2024] [INFO] Testing A* planner
+[Mon Oct 28 04:00:14 2024] [INFO] A* Results:
+[Mon Oct 28 04:00:14 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 04:00:14 2024] [INFO]   Computation time: 588.000000ms
+[Mon Oct 28 04:00:14 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:00:14 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 04:00:14 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 04:00:14 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 04:00:21 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:00:25 2024] [INFO] SBPL Results:
+[Mon Oct 28 04:00:25 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 04:00:25 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 04:00:25 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:00:25 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 04:00:25 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 04:00:25 2024] [INFO] Testing A* planner
+[Mon Oct 28 04:00:27 2024] [INFO] A* Results:
+[Mon Oct 28 04:00:27 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 04:00:27 2024] [INFO]   Computation time: 570.000000ms
+[Mon Oct 28 04:00:27 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:00:27 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 04:00:27 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 04:00:27 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 04:00:36 2024] [INFO] RRT* Results:
+[Mon Oct 28 04:00:36 2024] [INFO]   Path length: 14.114447m
+[Mon Oct 28 04:00:36 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 04:00:36 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:00:36 2024] [INFO]   Safety score: 0.796619
+[Mon Oct 28 04:00:36 2024] [INFO]   Smoothness: 0.988386
+[Mon Oct 28 04:03:37 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:03:51 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:03:55 2024] [INFO] SBPL Results:
+[Mon Oct 28 04:03:55 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 04:03:55 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 04:03:55 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:03:55 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 04:03:55 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 04:03:55 2024] [INFO] Testing A* planner
+[Mon Oct 28 04:03:57 2024] [INFO] A* Results:
+[Mon Oct 28 04:03:57 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 04:03:57 2024] [INFO]   Computation time: 569.000000ms
+[Mon Oct 28 04:03:57 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:03:57 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 04:03:57 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 04:03:57 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 04:04:07 2024] [INFO] RRT* Results:
+[Mon Oct 28 04:04:07 2024] [INFO]   Path length: 16.821482m
+[Mon Oct 28 04:04:07 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 04:04:07 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:04:07 2024] [INFO]   Safety score: 0.627746
+[Mon Oct 28 04:04:07 2024] [INFO]   Smoothness: 0.986861
+[Mon Oct 28 04:06:27 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:06:34 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:06:38 2024] [INFO] SBPL Results:
+[Mon Oct 28 04:06:38 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 04:06:38 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 04:06:38 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:06:38 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 04:06:38 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 04:06:38 2024] [INFO] Testing A* planner
+[Mon Oct 28 04:06:40 2024] [INFO] A* Results:
+[Mon Oct 28 04:06:40 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 04:06:40 2024] [INFO]   Computation time: 591.000000ms
+[Mon Oct 28 04:06:40 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:06:40 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 04:06:40 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 04:06:40 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 04:06:49 2024] [INFO] RRT* Results:
+[Mon Oct 28 04:06:49 2024] [INFO]   Path length: 15.260244m
+[Mon Oct 28 04:06:49 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 04:06:49 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:06:49 2024] [INFO]   Safety score: 0.770560
+[Mon Oct 28 04:06:49 2024] [INFO]   Smoothness: 0.984680
+[Mon Oct 28 04:07:16 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:07:20 2024] [INFO] SBPL Results:
+[Mon Oct 28 04:07:20 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 04:07:20 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 04:07:20 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:07:20 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 04:07:20 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 04:07:20 2024] [INFO] Testing A* planner
+[Mon Oct 28 04:07:22 2024] [INFO] A* Results:
+[Mon Oct 28 04:07:22 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 04:07:22 2024] [INFO]   Computation time: 569.000000ms
+[Mon Oct 28 04:07:22 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:07:22 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 04:07:22 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 04:07:22 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 04:07:31 2024] [INFO] RRT* Results:
+[Mon Oct 28 04:07:31 2024] [INFO]   Path length: 14.719407m
+[Mon Oct 28 04:07:31 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 04:07:31 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:07:31 2024] [INFO]   Safety score: 0.804588
+[Mon Oct 28 04:07:31 2024] [INFO]   Smoothness: 0.988602
+[Mon Oct 28 04:10:52 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:11:10 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:12:35 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:13:46 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:17:09 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:18:07 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:19:07 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:19:55 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:20:21 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:34:51 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:35:57 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:38:08 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:38:27 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:40:22 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:50:22 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:50:51 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:55:22 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:55:29 2024] [INFO] SBPL Results:
+[Mon Oct 28 04:55:29 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 04:55:29 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 04:55:29 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:55:29 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 04:55:29 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 04:55:29 2024] [INFO] Testing A* planner
+[Mon Oct 28 04:55:30 2024] [INFO] A* Results:
+[Mon Oct 28 04:55:30 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 04:55:30 2024] [INFO]   Computation time: 573.000000ms
+[Mon Oct 28 04:55:30 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:55:30 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 04:55:30 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 04:55:30 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 04:55:39 2024] [INFO] RRT* Results:
+[Mon Oct 28 04:55:39 2024] [INFO]   Path length: 15.219092m
+[Mon Oct 28 04:55:39 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 04:55:39 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:55:39 2024] [INFO]   Safety score: 1.063488
+[Mon Oct 28 04:55:39 2024] [INFO]   Smoothness: 0.988526
+[Mon Oct 28 04:55:53 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:55:57 2024] [INFO] SBPL Results:
+[Mon Oct 28 04:55:57 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 04:55:57 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 04:55:57 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:55:57 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 04:55:57 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 04:55:57 2024] [INFO] Testing A* planner
+[Mon Oct 28 04:55:58 2024] [INFO] A* Results:
+[Mon Oct 28 04:55:58 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 04:55:58 2024] [INFO]   Computation time: 571.000000ms
+[Mon Oct 28 04:55:58 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:55:58 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 04:55:58 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 04:55:58 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 04:56:09 2024] [INFO] RRT* Results:
+[Mon Oct 28 04:56:09 2024] [INFO]   Path length: 17.418835m
+[Mon Oct 28 04:56:09 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 04:56:09 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:56:09 2024] [INFO]   Safety score: 0.640463
+[Mon Oct 28 04:56:09 2024] [INFO]   Smoothness: 0.988011
+[Mon Oct 28 04:57:37 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 04:57:41 2024] [INFO] SBPL Results:
+[Mon Oct 28 04:57:41 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 04:57:41 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 04:57:41 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:57:41 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 04:57:41 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 04:57:41 2024] [INFO] Testing A* planner
+[Mon Oct 28 04:57:42 2024] [INFO] A* Results:
+[Mon Oct 28 04:57:42 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 04:57:42 2024] [INFO]   Computation time: 599.000000ms
+[Mon Oct 28 04:57:42 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:57:42 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 04:57:42 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 04:57:42 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 04:57:51 2024] [INFO] RRT* Results:
+[Mon Oct 28 04:57:51 2024] [INFO]   Path length: 15.380328m
+[Mon Oct 28 04:57:51 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 04:57:51 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 04:57:51 2024] [INFO]   Safety score: 0.492531
+[Mon Oct 28 04:57:51 2024] [INFO]   Smoothness: 0.987839
+[Mon Oct 28 05:00:46 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 05:00:50 2024] [INFO] SBPL Results:
+[Mon Oct 28 05:00:50 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 05:00:50 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 05:00:50 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:00:50 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 05:00:50 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 05:00:50 2024] [INFO] Testing A* planner
+[Mon Oct 28 05:00:51 2024] [INFO] A* Results:
+[Mon Oct 28 05:00:51 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 05:00:51 2024] [INFO]   Computation time: 569.000000ms
+[Mon Oct 28 05:00:51 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:00:51 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 05:00:51 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 05:00:51 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 05:01:01 2024] [INFO] RRT* Results:
+[Mon Oct 28 05:01:01 2024] [INFO]   Path length: 17.910587m
+[Mon Oct 28 05:01:01 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 05:01:01 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:01:01 2024] [INFO]   Safety score: 0.667661
+[Mon Oct 28 05:01:01 2024] [INFO]   Smoothness: 0.985326
+[Mon Oct 28 05:03:16 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 05:03:20 2024] [INFO] SBPL Results:
+[Mon Oct 28 05:03:20 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 05:03:20 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 05:03:20 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:03:20 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 05:03:20 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 05:03:20 2024] [INFO] Testing A* planner
+[Mon Oct 28 05:03:21 2024] [INFO] A* Results:
+[Mon Oct 28 05:03:21 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 05:03:21 2024] [INFO]   Computation time: 559.000000ms
+[Mon Oct 28 05:03:21 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:03:21 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 05:03:21 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 05:03:21 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 05:03:31 2024] [INFO] RRT* Results:
+[Mon Oct 28 05:03:31 2024] [INFO]   Path length: 15.995934m
+[Mon Oct 28 05:03:31 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 05:03:31 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:03:31 2024] [INFO]   Safety score: 0.499963
+[Mon Oct 28 05:03:31 2024] [INFO]   Smoothness: 0.988505
+[Mon Oct 28 05:41:35 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 05:41:38 2024] [INFO] SBPL Results:
+[Mon Oct 28 05:41:38 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 05:41:38 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 05:41:38 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:41:38 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 05:41:38 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 05:41:38 2024] [INFO] Testing A* planner
+[Mon Oct 28 05:41:40 2024] [INFO] A* Results:
+[Mon Oct 28 05:41:40 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 05:41:40 2024] [INFO]   Computation time: 554.000000ms
+[Mon Oct 28 05:41:40 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:41:40 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 05:41:40 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 05:41:40 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 05:41:49 2024] [INFO] RRT* Results:
+[Mon Oct 28 05:41:49 2024] [INFO]   Path length: 15.742311m
+[Mon Oct 28 05:41:49 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 05:41:49 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:41:49 2024] [INFO]   Safety score: 0.481695
+[Mon Oct 28 05:41:49 2024] [INFO]   Smoothness: 0.988168
+[Mon Oct 28 05:42:14 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 05:42:17 2024] [INFO] SBPL Results:
+[Mon Oct 28 05:42:17 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 05:42:17 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 05:42:17 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:42:17 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 05:42:17 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 05:42:17 2024] [INFO] Testing A* planner
+[Mon Oct 28 05:42:19 2024] [INFO] A* Results:
+[Mon Oct 28 05:42:19 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 05:42:19 2024] [INFO]   Computation time: 557.000000ms
+[Mon Oct 28 05:42:19 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:42:19 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 05:42:19 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 05:42:19 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 05:42:28 2024] [INFO] RRT* Results:
+[Mon Oct 28 05:42:28 2024] [INFO]   Path length: 15.792709m
+[Mon Oct 28 05:42:28 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 05:42:28 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 05:42:28 2024] [INFO]   Safety score: 1.007651
+[Mon Oct 28 05:42:28 2024] [INFO]   Smoothness: 0.990750
+[Mon Oct 28 10:55:55 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 10:56:11 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 10:56:15 2024] [INFO] SBPL Results:
+[Mon Oct 28 10:56:15 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 10:56:15 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 10:56:15 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 10:56:15 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 10:56:15 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 10:56:15 2024] [INFO] Testing A* planner
+[Mon Oct 28 10:56:48 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 10:57:31 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:01:06 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:01:10 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:01:10 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:01:10 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 11:01:10 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:01:10 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:01:10 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:01:10 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:01:12 2024] [INFO] A* Results:
+[Mon Oct 28 11:01:12 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:01:12 2024] [INFO]   Computation time: 589.000000ms
+[Mon Oct 28 11:01:12 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:01:12 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:01:12 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:01:12 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:01:23 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:01:23 2024] [INFO]   Path length: 18.190753m
+[Mon Oct 28 11:01:23 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 11:01:23 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:01:23 2024] [INFO]   Safety score: 0.652545
+[Mon Oct 28 11:01:23 2024] [INFO]   Smoothness: 0.987407
+[Mon Oct 28 11:03:11 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:03:15 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:03:15 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:03:15 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 11:03:15 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:03:15 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:03:15 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:03:15 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:03:17 2024] [INFO] A* Results:
+[Mon Oct 28 11:03:17 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:03:17 2024] [INFO]   Computation time: 618.000000ms
+[Mon Oct 28 11:03:17 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:03:17 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:03:17 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:03:17 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:03:27 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:03:27 2024] [INFO]   Path length: 14.182357m
+[Mon Oct 28 11:03:27 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 11:03:27 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:03:27 2024] [INFO]   Safety score: 0.757734
+[Mon Oct 28 11:03:27 2024] [INFO]   Smoothness: 0.988033
+[Mon Oct 28 11:14:49 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:14:53 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:14:53 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:14:53 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 11:14:53 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:14:53 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:14:53 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:14:53 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:14:56 2024] [INFO] A* Results:
+[Mon Oct 28 11:14:56 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:14:56 2024] [INFO]   Computation time: 600.000000ms
+[Mon Oct 28 11:14:56 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:14:56 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:14:56 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:14:56 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:15:06 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:15:06 2024] [INFO]   Path length: 16.786309m
+[Mon Oct 28 11:15:06 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 11:15:06 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:15:06 2024] [INFO]   Safety score: 0.514303
+[Mon Oct 28 11:15:06 2024] [INFO]   Smoothness: 0.986222
+[Mon Oct 28 11:18:29 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:18:33 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:18:33 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:18:33 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 11:18:33 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:18:33 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:18:33 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:18:33 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:18:35 2024] [INFO] A* Results:
+[Mon Oct 28 11:18:35 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:18:35 2024] [INFO]   Computation time: 604.000000ms
+[Mon Oct 28 11:18:35 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:18:35 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:18:35 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:18:35 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:18:44 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:18:44 2024] [INFO]   Path length: 14.177625m
+[Mon Oct 28 11:18:44 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 11:18:44 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:18:44 2024] [INFO]   Safety score: 0.751623
+[Mon Oct 28 11:18:44 2024] [INFO]   Smoothness: 0.988389
+[Mon Oct 28 11:21:23 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:21:27 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:21:27 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:21:27 2024] [INFO]   Computation time: 15.000000ms
+[Mon Oct 28 11:21:27 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:21:27 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:21:27 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:21:27 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:21:29 2024] [INFO] A* Results:
+[Mon Oct 28 11:21:29 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:21:29 2024] [INFO]   Computation time: 596.000000ms
+[Mon Oct 28 11:21:29 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:21:29 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:21:29 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:21:29 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:21:39 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:21:39 2024] [INFO]   Path length: 16.270692m
+[Mon Oct 28 11:21:39 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 11:21:39 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:21:39 2024] [INFO]   Safety score: 0.506186
+[Mon Oct 28 11:21:39 2024] [INFO]   Smoothness: 0.983759
+[Mon Oct 28 11:26:31 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:26:35 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:26:35 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:26:35 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 11:26:35 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:26:35 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:26:35 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:26:35 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:26:37 2024] [INFO] A* Results:
+[Mon Oct 28 11:26:37 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:26:37 2024] [INFO]   Computation time: 609.000000ms
+[Mon Oct 28 11:26:37 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:26:37 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:26:37 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:26:37 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:26:46 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:26:46 2024] [INFO]   Path length: 14.486225m
+[Mon Oct 28 11:26:46 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 11:26:46 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:26:46 2024] [INFO]   Safety score: 0.828055
+[Mon Oct 28 11:26:46 2024] [INFO]   Smoothness: 0.987433
+[Mon Oct 28 11:28:52 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:28:56 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:28:56 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:28:56 2024] [INFO]   Computation time: 13.000000ms
+[Mon Oct 28 11:28:56 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:28:56 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:28:56 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:28:56 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:28:58 2024] [INFO] A* Results:
+[Mon Oct 28 11:28:58 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:28:58 2024] [INFO]   Computation time: 592.000000ms
+[Mon Oct 28 11:28:58 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:28:58 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:28:58 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:28:58 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:29:08 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:29:08 2024] [INFO]   Path length: 13.980941m
+[Mon Oct 28 11:29:08 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 11:29:08 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:29:08 2024] [INFO]   Safety score: 0.767456
+[Mon Oct 28 11:29:08 2024] [INFO]   Smoothness: 0.989218
+[Mon Oct 28 11:32:39 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:32:51 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:32:55 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:32:55 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:32:55 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 11:32:55 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:32:55 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:32:55 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:32:55 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:32:57 2024] [INFO] A* Results:
+[Mon Oct 28 11:32:57 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:32:57 2024] [INFO]   Computation time: 591.000000ms
+[Mon Oct 28 11:32:57 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:32:57 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:32:57 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:32:57 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:33:07 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:33:07 2024] [INFO]   Path length: 17.657066m
+[Mon Oct 28 11:33:07 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 11:33:07 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:33:07 2024] [INFO]   Safety score: 0.641726
+[Mon Oct 28 11:33:07 2024] [INFO]   Smoothness: 0.987754
+[Mon Oct 28 11:38:33 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:38:37 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:38:37 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:38:37 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 11:38:37 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:38:37 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:38:37 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:38:37 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:38:39 2024] [INFO] A* Results:
+[Mon Oct 28 11:38:39 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:38:39 2024] [INFO]   Computation time: 594.000000ms
+[Mon Oct 28 11:38:39 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:38:39 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:38:39 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:38:39 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:38:48 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:38:48 2024] [INFO]   Path length: 13.946869m
+[Mon Oct 28 11:38:48 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 11:38:48 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:38:48 2024] [INFO]   Safety score: 0.758913
+[Mon Oct 28 11:38:48 2024] [INFO]   Smoothness: 0.989093
+[Mon Oct 28 11:53:03 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:53:07 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:53:07 2024] [INFO]   Path length: 14.307464m
+[Mon Oct 28 11:53:07 2024] [INFO]   Computation time: 14.000000ms
+[Mon Oct 28 11:53:07 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:53:07 2024] [INFO]   Safety score: 0.701955
+[Mon Oct 28 11:53:07 2024] [INFO]   Smoothness: 0.876641
+[Mon Oct 28 11:53:07 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:53:09 2024] [INFO] A* Results:
+[Mon Oct 28 11:53:09 2024] [INFO]   Path length: 13.391466m
+[Mon Oct 28 11:53:09 2024] [INFO]   Computation time: 610.000000ms
+[Mon Oct 28 11:53:09 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:53:09 2024] [INFO]   Safety score: 0.710869
+[Mon Oct 28 11:53:09 2024] [INFO]   Smoothness: 0.566534
+[Mon Oct 28 11:53:09 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:53:19 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:53:19 2024] [INFO]   Path length: 17.059458m
+[Mon Oct 28 11:53:19 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 11:53:19 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:53:19 2024] [INFO]   Safety score: 0.546368
+[Mon Oct 28 11:53:19 2024] [INFO]   Smoothness: 0.988031
+[Mon Oct 28 11:54:42 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:54:45 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:54:45 2024] [INFO]   Path length: 5.500000m
+[Mon Oct 28 11:54:45 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 11:54:45 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:54:45 2024] [INFO]   Safety score: 1.014904
+[Mon Oct 28 11:54:45 2024] [INFO]   Smoothness: 1.000000
+[Mon Oct 28 11:54:45 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:54:46 2024] [INFO] A* Results:
+[Mon Oct 28 11:54:46 2024] [INFO]   Path length: 6.000000m
+[Mon Oct 28 11:54:46 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 11:54:46 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:54:46 2024] [INFO]   Safety score: 0.754852
+[Mon Oct 28 11:54:46 2024] [INFO]   Smoothness: 1.000000
+[Mon Oct 28 11:54:46 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:54:48 2024] [INFO] RRT* Results:
+[Mon Oct 28 11:54:48 2024] [INFO]   Path length: 6.000000m
+[Mon Oct 28 11:54:48 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 11:54:48 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:54:48 2024] [INFO]   Safety score: 0.754852
+[Mon Oct 28 11:54:48 2024] [INFO]   Smoothness: 1.000000
+[Mon Oct 28 11:59:20 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 11:59:24 2024] [INFO] SBPL Results:
+[Mon Oct 28 11:59:24 2024] [INFO]   Path length: 10.700000m
+[Mon Oct 28 11:59:24 2024] [INFO]   Computation time: 0.000000ms
+[Mon Oct 28 11:59:24 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 11:59:24 2024] [INFO]   Safety score: 1.392627
+[Mon Oct 28 11:59:24 2024] [INFO]   Smoothness: 1.000000
+[Mon Oct 28 11:59:24 2024] [INFO] Testing A* planner
+[Mon Oct 28 11:59:35 2024] [ERROR] A* planner failed to find a path
+[Mon Oct 28 11:59:36 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 11:59:36 2024] [ERROR] RRT* planner failed to find a path
+[Mon Oct 28 12:01:35 2024] [INFO] Testing SBPL planner
+[Mon Oct 28 12:01:39 2024] [INFO] SBPL Results:
+[Mon Oct 28 12:01:39 2024] [INFO]   Path length: 15.817872m
+[Mon Oct 28 12:01:39 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 12:01:39 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 12:01:39 2024] [INFO]   Safety score: 0.998120
+[Mon Oct 28 12:01:39 2024] [INFO]   Smoothness: 0.977140
+[Mon Oct 28 12:01:39 2024] [INFO] Testing A* planner
+[Mon Oct 28 12:01:41 2024] [INFO] A* Results:
+[Mon Oct 28 12:01:41 2024] [INFO]   Path length: 15.811676m
+[Mon Oct 28 12:01:41 2024] [INFO]   Computation time: 559.000000ms
+[Mon Oct 28 12:01:41 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 12:01:41 2024] [INFO]   Safety score: 1.313478
+[Mon Oct 28 12:01:41 2024] [INFO]   Smoothness: 0.850009
+[Mon Oct 28 12:01:41 2024] [INFO] Testing RRT* planner
+[Mon Oct 28 12:01:51 2024] [INFO] RRT* Results:
+[Mon Oct 28 12:01:51 2024] [INFO]   Path length: 16.674612m
+[Mon Oct 28 12:01:51 2024] [INFO]   Computation time: 1.000000ms
+[Mon Oct 28 12:01:51 2024] [INFO]   Memory usage: 0.000000MB
+[Mon Oct 28 12:01:51 2024] [INFO]   Safety score: 1.077781
+[Mon Oct 28 12:01:51 2024] [INFO]   Smoothness: 0.989527
+[Thu Oct 31 13:51:03 2024] [INFO] Testing SBPL planner
+[Thu Oct 31 13:51:10 2024] [INFO] SBPL Results:
+[Thu Oct 31 13:51:10 2024] [INFO]   Path length: 15.817872m
+[Thu Oct 31 13:51:10 2024] [INFO]   Computation time: 0.000000ms
+[Thu Oct 31 13:51:10 2024] [INFO]   Memory usage: 0.000000MB
+[Thu Oct 31 13:51:10 2024] [INFO]   Safety score: 0.998120
+[Thu Oct 31 13:51:10 2024] [INFO]   Smoothness: 0.977140
+[Thu Oct 31 13:51:10 2024] [INFO] Testing A* planner
+[Thu Oct 31 13:51:11 2024] [INFO] A* Results:
+[Thu Oct 31 13:51:11 2024] [INFO]   Path length: 15.811676m
+[Thu Oct 31 13:51:11 2024] [INFO]   Computation time: 592.000000ms
+[Thu Oct 31 13:51:11 2024] [INFO]   Memory usage: 0.000000MB
+[Thu Oct 31 13:51:11 2024] [INFO]   Safety score: 1.313478
+[Thu Oct 31 13:51:11 2024] [INFO]   Smoothness: 0.850009
+[Thu Oct 31 13:51:11 2024] [INFO] Testing RRT* planner
+[Thu Oct 31 13:51:22 2024] [INFO] RRT* Results:
+[Thu Oct 31 13:51:22 2024] [INFO]   Path length: 16.522383m
+[Thu Oct 31 13:51:22 2024] [INFO]   Computation time: 0.000000ms
+[Thu Oct 31 13:51:22 2024] [INFO]   Memory usage: 0.000000MB
+[Thu Oct 31 13:51:22 2024] [INFO]   Safety score: 1.047393
+[Thu Oct 31 13:51:22 2024] [INFO]   Smoothness: 0.987939

@@ -1,0 +1,37 @@
+Motion Planning Metrics Report
+===========================
+
+Path Metrics:
+------------
+Total Length: 14.307 m
+Number of Waypoints: 242
+Smoothness: 0.877
+Safety Score: 0.702
+Average Clearance: 0.690 m
+Minimum Clearance: 0.000 m
+Max Heading Change: 0.000 rad
+Comfort Score: 0.104
+Energy Score: 0.551
+Max Acceleration: 5.000 m/s²
+Max Jerk: 100.000 m/s³
+Computation Time: 14.000 ms
+Memory Usage: 0.000 KB
+
+Trajectory Metrics:
+-----------------
+Total Duration: 25.800 s
+Average Velocity: 0.203 m/s
+Max Velocity: 0.273 m/s
+Average Acceleration: 0.331 m/s²
+Max Acceleration: 0.490 m/s²
+Average Angular Velocity: 0.025 rad/s
+Max Angular Velocity: 0.680 rad/s
+Average Angular Acceleration: 1.000 rad/s²
+Max Angular Acceleration: 13.600 rad/s²
+Smoothness: 0.022
+Tracking Difficulty: 1.000
+
+Constraints Check:
+Velocity Constraints Met: Yes
+Acceleration Constraints Met: Yes
+Angular Constraints Met: No

@@ -1,0 +1,8 @@
+Trajectory Summary:
+Number of points: 631
+Duration: 31.500 seconds
+Distance traveled: 12.500 meters
+Maximum velocity: 0.581 m/s
+Average velocity: 0.230 m/s
+Maximum acceleration: 0.700 m/s²
+Minimum acceleration: -3.152 m/s²

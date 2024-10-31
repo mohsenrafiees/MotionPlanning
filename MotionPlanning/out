@@ -1,0 +1,43 @@
+Original image dimensions: 1520 x 1004
+Resizing image to 320 x 320.
+Adjusted image dimensions: 320 x 320
+[INFO] Testing SBPL planner
+About to run PlottingUtils::createPlanner: 
+About to run PlottingUtils::createPlanner: 
+Planner is running
+Trajectory generation complete with smoother velocities.
+Successfully saved path plot with robot footprint as 'output/metrics/SBPL/path_planning_result_with_footprint.png'
+[INFO] SBPL Results:
+[INFO]   Path length: 14.307464m
+[INFO]   Computation time: 13.000000ms
+[INFO]   Memory usage: 0.000000MB
+[INFO]   Safety score: 0.701955
+[INFO]   Smoothness: 0.876641
+[INFO] Testing A* planner
+About to run PlottingUtils::createPlanner: 
+About to run PlottingUtils::createPlanner: 
+Planner is running
+Starting A* from 2 2 0 to  6 14  0
+Goal reached in 0.535232 seconds!
+Trajectory generation complete with smoother velocities.
+Successfully saved path plot with robot footprint as 'output/metrics/A*/path_planning_result_with_footprint.png'
+[INFO] A* Results:
+[INFO]   Path length: 13.391466m
+[INFO]   Computation time: 571.000000ms
+[INFO]   Memory usage: 0.000000MB
+[INFO]   Safety score: 0.710869
+[INFO]   Smoothness: 0.566534
+[INFO] Testing RRT* planner
+About to run PlottingUtils::createPlanner: 
+About to run PlottingUtils::createPlanner: 
+Planner is running
+Starting RRT* from 2 2 0 to  6 14  0
+Goal reached at iteration 227!
+Trajectory generation complete with smoother velocities.
+Successfully saved path plot with robot footprint as 'output/metrics/RRT*/path_planning_result_with_footprint.png'
+[INFO] RRT* Results:
+[INFO]   Path length: 17.418835m
+[INFO]   Computation time: 0.000000ms
+[INFO]   Memory usage: 0.000000MB
+[INFO]   Safety score: 0.640463
+[INFO]   Smoothness: 0.988011

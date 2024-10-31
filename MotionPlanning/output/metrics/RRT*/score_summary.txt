@@ -1,0 +1,6 @@
+Overall Performance Scores
+========================
+
+Path Quality Score: 0.702 / 1.0
+Trajectory Performance Score: 0.410 / 1.0
+Combined Score: 0.556 / 1.0
